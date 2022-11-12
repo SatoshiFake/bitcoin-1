@@ -1,0 +1,788 @@
+<html lang="en">
+ <head>
+  <meta charset="utf-8">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="theme-color" content="#000000">
+  <meta name="description" content="Tether Gold - The World’s Leading Gold Token">
+  <meta name="keywords" content="tether, gold, lookup, token">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&amp;family=Inter:wght@400..700&amp;display=swap" rel="stylesheet">
+  <meta property="og:url" content="https://gold.tether.to">
+  <meta property="og:site_name" content="Tether">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Tether Gold | XAUt token | Digital Token Backed by Physical Gold">
+  <meta property="og:description" content="Tether Gold (XAUt) is a digital token backed by physical gold. It’s transferable to any on-chain address and redeemable to physical gold.">
+  <meta property="og:image" content="https://gold.tether.to/images/gold.tether.to.png">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@tethergold">
+  <meta name="twitter:title" content="Tether Gold | XAUt token | Digital Token Backed by Physical Gold">
+  <meta name="twitter:description" content="Tether Gold (XAUt) is a digital token backed by physical gold. It’s transferable to any on-chain address and redeemable to physical gold.">
+  <meta name="twitter:image" content="https://gold.tether.to/images/gold.tether.to_2.png">
+  <link rel="apple-touch-icon" href="logo512.png">
+  <link rel="manifest" crossorigin="use-credentials" href="/manifest.json">
+  <title>Tether Gold - The World’s Leading Gold Token</title>
+  <link href="/static/css/2.50d6b14a.chunk.css" rel="stylesheet">
+  <link href="/static/css/main.62575a7e.chunk.css" rel="stylesheet">
+  <style data-styled="" data-styled-version="4.4.1"></style>
+ </head>
+ <body>
+  <noscript>
+   You need to enable JavaScript to run this app.
+  </noscript>
+  <div id="root">
+   <div type="STYLISH" class="sc-jTzLTM kHmSnm">
+    <div class="sc-jDwBTQ dSeJB">
+     <div class="header_left">
+      <div class="header_left_alignment">
+       <div class="header_logo">
+        <a href="/"><img title="Tether Gold" class="navigation_logo" alt="Tether Gold" src="/static/media/tether-gold-logo.19adb481.svg"></a>
+       </div>
+      </div>
+     </div>
+     <div class="header_right">
+      <div>
+       <a class="link" href="/faq">FAQ's</a>
+      </div>
+      <div>
+       <span class="bp3-popover-wrapper"><span aria-haspopup="true" class="bp3-popover-target"><span class="" tabindex="0">English</span></span></span>
+      </div>
+      <div>
+       <a target="_blank" rel="noopener noreferrer" class="button secondary" href="https://app.tether.to/app/login">Log In</a>
+      </div>
+      <div>
+       <a target="_blank" rel="noopener noreferrer" class="button primary" href="https://app.tether.to/app/signup">Sign Up</a>
+      </div>
+     </div>
+    </div>
+    <header class="sc-jAaTju CdkgT light header mobile">
+     <div class="header_left">
+      <a href="/"><img title="Tether Gold" class="navigation_logo" alt="Tether Gold" src="/static/media/tether-gold-logo.19adb481.svg"></a>
+     </div>
+     <div class="header_right">
+      <button type="transparent" class="sc-bdVaJa kBtHzl">
+       <svg width="28" height="17" viewbox="0 0 28 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M1 1.5H27M7.5 8.43333H27M14 15.3667H27" stroke="#D3B25B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+       </svg></button>
+     </div>
+     <div class="mobile_header_content">
+      <div class="inner">
+       <ul>
+        <li class="link"><a class="link" href="/faq">FAQ's</a></li>
+        <li class="link sublinks"><button type="transparent" class="sc-bdVaJa kBtHzl collapsible_link"><a class="">English</a></button></li>
+        <li class="button secondary"><a target="_blank" rel="noopener noreferrer" class="button secondary" href="https://app.tether.to/app/login">Log In</a></li>
+        <li class="button primary"><a target="_blank" rel="noopener noreferrer" class="button primary" href="https://app.tether.to/app/signup">Sign Up</a></li>
+       </ul>
+      </div>
+     </div>
+    </header>
+   </div>
+   <div class="sc-gipzik jaJYDB" style="">
+    <div class="sc-csuQGl giinmB">
+     <button type="transparent" class="sc-bdVaJa kBtHzl">
+      <svg width="210" height="210" viewbox="0 0 210 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+       <g filter="url(#filter0_b_7232_38773)">
+        <rect width="210" height="210" rx="105" fill="url(#paint0_linear_7232_38773)" fill-opacity="0.3"></rect>
+       </g>
+       <rect x="45" y="45" width="120" height="120" rx="60" fill="#F9F7F2"></rect>
+       <path fill-rule="evenodd" clip-rule="evenodd" d="M44.2542 105C44.2542 71.4512 71.451 44.2544 105 44.2544C138.549 44.2544 165.746 71.4512 165.746 105C165.746 138.549 138.549 165.746 105 165.746C71.451 165.746 44.2542 138.549 44.2542 105ZM94.9531 85.4361C96.1285 84.7539 97.5782 84.7491 98.7582 85.4234L127.225 101.69C128.413 102.369 129.146 103.632 129.146 105C129.146 106.368 128.413 107.632 127.225 108.31L98.7582 124.577C97.5782 125.251 96.1285 125.247 94.9531 124.564C93.7776 123.882 93.0541 122.626 93.0541 121.267V88.7336C93.0541 87.3745 93.7776 86.1182 94.9531 85.4361Z" fill="url(#paint1_linear_7232_38773)"></path>
+       <defs>
+        <filter id="filter0_b_7232_38773" x="-10" y="-10" width="230" height="230" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+         <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+         <fegaussianblur in="BackgroundImage" stddeviation="5"></fegaussianblur>
+         <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_7232_38773"></fecomposite>
+         <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_7232_38773" result="shape"></feblend>
+        </filter>
+        <lineargradient id="paint0_linear_7232_38773" x1="105" y1="0" x2="105" y2="210" gradientunits="userSpaceOnUse">
+         <stop stop-color="#D3B25B"></stop>
+         <stop offset="1" stop-color="#666666" stop-opacity="0"></stop>
+        </lineargradient>
+        <lineargradient id="paint1_linear_7232_38773" x1="58.9046" y1="151.083" x2="158.66" y2="151.51" gradientunits="userSpaceOnUse">
+         <stop stop-color="#E8C775"></stop>
+         <stop offset="1" stop-color="#C89B27"></stop>
+        </lineargradient>
+       </defs>
+      </svg></button>
+    </div>
+    <div class="sc-Rmtcm bvzbnP">
+     <div class="sc-bRBYWo fPZpt">
+      <div>
+       <div class="sc-hzDkRC bYhdIV">
+        <h1 class="sc-htpNat gwTEwC">Gold Made Easy</h1>
+        <h3 class="sc-ifAKCX WJxtN">XAUt is a digital token, backed by physical gold.</h3>
+        <div class="sc-htoDjs jOSCcF">
+         From ancient civilizations, humans have used gold as money and a store of value. Since then, and especially in times when the overall macro market has been in distress, gold has been used as a hedge.
+        </div>
+       </div>
+       <div class="sc-jhAzac hnZAfy">
+        <button type="primary" class="sc-bdVaJa kZFRjH">Buy XAUt</button>
+        <button type="secondary" class="sc-bdVaJa iwUYFD">Whitepaper</button>
+       </div>
+      </div>
+      <div class="sc-iRbamj bVqEbO">
+       <div class="sc-jlyJG fkVLsw">
+        <div type="normal" class="sc-htoDjs jOSCcF">
+         USD Market Cap
+        </div>
+        <h5 class="sc-bZQynM cwjCsK">$435.099.150</h5>
+       </div>
+       <div class="sc-jlyJG gSPkcd">
+        <div type="normal" class="sc-htoDjs jOSCcF">
+         Gold Bars
+        </div>
+        <h5 class="sc-bZQynM cwjCsK">611</h5>
+       </div>
+       <div class="sc-jlyJG iyKsNo">
+        <div type="normal" class="sc-htoDjs jOSCcF">
+         Gold Kilograms
+        </div>
+        <h5 class="sc-bZQynM cwjCsK">7643.71</h5>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="sc-kpOJdX dHLXW sc-fBuWsC guuYKc" style="">
+    <div class="sc-VigVT sc-fMiknA faNmlN">
+     <div>
+      <div class="round-box">
+       <div class="sc-dVhcbM fNWwZL">
+        <div class="sc-eqIVtm hpSFwn">
+         <svg width="44" height="44" viewbox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="44" height="44" rx="22" fill="#D3B25B"></rect>
+          <path d="M31 31L26.1192 26.2186M20.7143 28.4286C16.4538 28.4286 13 24.9748 13 20.7143C13 16.4538 16.4538 13 20.7143 13C24.9748 13 28.4286 16.4538 28.4286 20.7143C28.4286 24.9748 24.9748 28.4286 20.7143 28.4286Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+         </svg>
+        </div>
+        <h4 class="sc-EHOje drEiLP">Gold Allocation Lookup</h4>
+        <div class="sc-htoDjs jOSCcF">
+         Enter the address that holds your XAUt tokens below.
+        </div>
+       </div>
+       <div class="sc-fAjcbJ kssFFw">
+        <form>
+         <input class="sc-caSCKo hIQoDx" id="text-input" placeholder="Ethereum address">
+         <button type="gold" class="sc-bdVaJa CQcgE">Look up</button>
+        </form>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sc-dxgOiQ dNZjlw section-wrapper-right-bg-image-div"></div>
+   </div>
+   <div class="sc-kpOJdX istUHb sc-cIShpX krSiat">
+    <div class="sc-VigVT sc-kafWEX iuJvui">
+     <h1 class="sc-htpNat gwTEwC">Gold is an excellent <br> Store of Value</h1>
+     <div class="carousel-root sc-feJyhm jIuDva">
+      <div class="carousel carousel-slider" style="width: 100%;">
+       <ul class="control-dots">
+        <li class="dot selected" value="0" role="button" tabindex="0" aria-label="slide item 1"></li>
+        <li class="dot" value="1" role="button" tabindex="0" aria-label="slide item 2"></li>
+        <li class="dot" value="2" role="button" tabindex="0" aria-label="slide item 3"></li>
+       </ul>
+       <button type="button" aria-label="previous slide / item" class="control-arrow control-prev control-disabled"></button>
+       <div class="slider-wrapper axis-horizontal" style="height: 792px;">
+        <ul class="slider animated" style="transform: translate3d(-100%, 0px, 0px); transition-duration: 1000ms;">
+         <li class="slide">
+          <div class="sc-iELTvK hZdskq">
+           <div class="sc-jwKygS emZkNP"></div>
+           <div class="sc-cmTdod lgWVre">
+            <h2 class="sc-bxivhb iEdtCA">A Safe Portfolio <br> Diversification Asset</h2>
+            <div class="sc-htoDjs jOSCcF">
+             The key to diversification is finding investments that are not closely correlated to one another; Gold has historically had a negative correlation to stocks and other financial instruments. Properly diversified investors combine Gold with stocks and bonds and crypto in a portfolio to reduce the overall volatility and risk.
+            </div>
+           </div>
+          </div></li>
+         <li class="slide selected previous">
+          <div class="sc-iELTvK hZdskq">
+           <div class="sc-jwKygS fDYDSc"></div>
+           <div class="sc-cmTdod lgWVre">
+            <h2 class="sc-bxivhb iEdtCA">Long history as <br> a Store of Value</h2>
+            <div class="sc-htoDjs jOSCcF">
+             Unlike fiat paper currency, coins or other assets, gold has maintained its value throughout the ages. People see gold as a way to pass on and preserve their wealth from one generation to the next.
+            </div>
+           </div>
+          </div></li>
+         <li class="slide">
+          <div class="sc-iELTvK hZdskq">
+           <div class="sc-jwKygS hETHkq"></div>
+           <div class="sc-cmTdod lgWVre">
+            <h2 class="sc-bxivhb iEdtCA">An excellent hedge <br> against Inflation</h2>
+            <div class="sc-htoDjs jOSCcF">
+             Gold has historically been an excellent hedge against inflation because its price tends to rise when the cost-of-living increases. In this unprecedented time in which central banks print more money than ever,Gold is a great choice to store your wealth because of its scarcity.
+            </div>
+           </div>
+          </div></li>
+         <li class="slide">
+          <div class="sc-iELTvK hZdskq">
+           <div class="sc-jwKygS emZkNP"></div>
+           <div class="sc-cmTdod lgWVre">
+            <h2 class="sc-bxivhb iEdtCA">A Safe Portfolio <br> Diversification Asset</h2>
+            <div class="sc-htoDjs jOSCcF">
+             The key to diversification is finding investments that are not closely correlated to one another; Gold has historically had a negative correlation to stocks and other financial instruments. Properly diversified investors combine Gold with stocks and bonds and crypto in a portfolio to reduce the overall volatility and risk.
+            </div>
+           </div>
+          </div></li>
+         <li class="slide selected previous">
+          <div class="sc-iELTvK hZdskq">
+           <div class="sc-jwKygS fDYDSc"></div>
+           <div class="sc-cmTdod lgWVre">
+            <h2 class="sc-bxivhb iEdtCA">Long history as <br> a Store of Value</h2>
+            <div class="sc-htoDjs jOSCcF">
+             Unlike fiat paper currency, coins or other assets, gold has maintained its value throughout the ages. People see gold as a way to pass on and preserve their wealth from one generation to the next.
+            </div>
+           </div>
+          </div></li>
+        </ul>
+       </div>
+       <button type="button" aria-label="next slide / item" class="control-arrow control-next control-disabled"></button>
+      </div>
+     </div>
+    </div>
+    <div class="sc-dxgOiQ dNZjlw section-wrapper-right-bg-image-div"></div>
+   </div>
+   <div class="sc-kpOJdX jEaTtn sc-jbKcbu kwncYO">
+    <div class="sc-VigVT sc-dNLxif gqXpCn">
+     <div class="sc-jqCOkK fAzhaL">
+      <h2 class="sc-bxivhb iEdtCA">Tether Gold is like gold, but easier</h2>
+      <div class="sc-htoDjs jOSCcF">
+       Tether Gold (XAUt) is a token that provides you ownership of real physical gold. By putting gold on a Blockchain, we unlock a variety of characteristics that typically only crypto assets possess.
+      </div>
+      <button type="secondary" class="sc-bdVaJa iwUYFD">Get Some</button>
+     </div>
+     <div class="sc-kvZOFW sc-uJMKN risyQ">
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="37" height="38" viewbox="0 0 37 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M1 3.13341C1 2.33755 1.64517 1.69238 2.44103 1.69238L24.4103 1.69238C25.2061 1.69238 25.8513 2.33755 25.8513 3.13341L25.8513 25.1026C25.8513 25.8985 25.2061 26.5437 24.4103 26.5437L2.44102 26.5437C1.64517 26.5437 1 25.8985 1 25.1026L1 3.13341Z" stroke="#D3B25B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <g filter="url(#filter0_b_6823_38230)">
+         <path d="M9.76367 12.8971C9.76367 11.5489 10.8566 10.4561 12.2047 10.4561L34.1739 10.4561C35.5221 10.4561 36.6149 11.5489 36.6149 12.8971V34.8663C36.6149 36.2144 35.5221 37.3073 34.1739 37.3073H12.2047C10.8566 37.3073 9.76367 36.2144 9.76367 34.8663L9.76367 12.8971Z" fill="url(#paint0_linear_6823_38230)" fill-opacity="0.2"></path>
+        </g>
+        <defs>
+         <filter id="filter0_b_6823_38230" x="5.76367" y="6.45605" width="34.8511" height="34.8516" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38230"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38230" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38230" x1="23.1893" y1="10.4561" x2="23.1893" y2="37.3073" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Easy to Transport</h5>
+       <div class="sc-htoDjs jOSCcF">
+        Transporting physical gold is challenging, however, transporting your XAUt tokens is as easy as taking your other crypto-assets with you, whenever you need to.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="37" height="37" viewbox="0 0 37 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_38233)">
+         <path d="M0 3C0 1.34315 1.34315 0 3 0H15.6923V15.6923H0V3Z" fill="#D3B25B"></path>
+        </g>
+        <g filter="url(#filter1_b_6823_38233)">
+         <path d="M20.9229 0H33.6152C35.272 0 36.6152 1.34315 36.6152 3V33.6154C36.6152 35.2722 35.272 36.6154 33.6152 36.6154H20.9229V0Z" fill="url(#paint0_linear_6823_38233)" fill-opacity="0.2"></path>
+        </g>
+        <g filter="url(#filter2_b_6823_38233)">
+         <path d="M15.6924 36.6152L3.00007 36.6152C1.34322 36.6152 7.29635e-05 35.2721 7.31083e-05 33.6152L7.42179e-05 20.9229L15.6924 20.9229L15.6924 36.6152Z" fill="url(#paint1_linear_6823_38233)" fill-opacity="0.2"></path>
+        </g>
+        <defs>
+         <filter id="filter0_b_6823_38233" x="-4" y="-4" width="23.6924" height="23.6924" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38233"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38233" result="shape"></feblend>
+         </filter>
+         <filter id="filter1_b_6823_38233" x="16.9229" y="-4" width="23.6924" height="44.6152" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38233"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38233" result="shape"></feblend>
+         </filter>
+         <filter id="filter2_b_6823_38233" x="-4" y="16.9229" width="23.6924" height="23.6924" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38233"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38233" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38233" x1="28.769" y1="0" x2="28.769" y2="36.6154" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+         <lineargradient id="paint1_linear_6823_38233" x1="7.84623" y1="36.6152" x2="7.84623" y2="20.9229" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Easy Divisibility</h5>
+       <div class="sc-htoDjs jOSCcF">
+        It’s difficult to split up your physical gold bars. However XAUt tokens are divisible into increments as small as 0.000001 fine troy ounce of gold.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="37" height="38" viewbox="0 0 37 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_38237)">
+         <path d="M0 3.69239C0 2.03553 1.34315 0.692383 3 0.692383H33.6154C35.2722 0.692383 36.6154 2.03553 36.6154 3.69238V34.3078C36.6154 35.9646 35.2722 37.3078 33.6154 37.3078H3C1.34315 37.3078 0 35.9646 0 34.3078V3.69239Z" fill="url(#paint0_linear_6823_38237)" fill-opacity="0.2"></path>
+        </g>
+        <path d="M18.3078 5.92285V12.9643M8.50011 25.0353V30.0649M8.50011 13.9702V16.9879M28.1155 13.9702V18.9998M28.1155 27.0471V32.0767M6.53857 16.9879H10.4617V25.0353H6.53857V16.9879ZM16.3463 12.9643H20.2693V21.0116H16.3463V12.9643ZM26.154 18.9998H30.077V27.0471H26.154V18.9998Z" stroke="#D3B25B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <defs>
+         <filter id="filter0_b_6823_38237" x="-4" y="-3.30762" width="44.6152" height="44.6152" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38237"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38237" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38237" x1="18.3077" y1="0.692383" x2="18.3077" y2="37.3078" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">24/7 Trading with Ease</h5>
+       <div class="sc-htoDjs jOSCcF">
+        Trading physical gold limits you to your location and trading hours. XAUt tokens however, can be traded 24/7, 365 days a year from anywhere in the world on exchanges that list XAUt Tokens.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="42" height="49" viewbox="0 0 42 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_38242)">
+         <path d="M34.5481 33.6077C32.2522 41.1281 24.2945 45.3634 16.7741 43.0675C12.4343 41.7426 9.18849 38.5322 7.66045 34.6085M7.31437 15.051C9.61026 7.53062 17.5679 3.29534 25.0883 5.59123C29.4281 6.91613 32.674 10.1265 34.202 14.0502M28.1699 12.9117L34.9783 14.9903L37.0568 8.18182M4.80561 40.4769L6.88415 33.6684L13.6926 35.747" stroke="url(#paint0_linear_6823_38242)" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M37.9674 20.0762H32.6952C32.5699 20.0762 32.4555 20.1449 32.3902 20.2595L30.8543 23.0319C30.7726 23.1751 30.7998 23.3584 30.9142 23.473L35.1407 27.8149C35.2768 27.9581 35.5002 27.9581 35.6363 27.8149L39.8574 23.4787C39.9718 23.3584 39.9936 23.1751 39.9119 23.0262L38.267 20.248C38.2016 20.1449 38.0873 20.0762 37.9674 20.0762Z" fill="#D3B25B"></path>
+        <path d="M3.80526 20.4609C3.85867 20.2354 4.06004 20.0762 4.2918 20.0762H11.5536C11.7854 20.0762 11.9867 20.2354 12.0401 20.4609L13.6616 27.3071C13.736 27.6211 13.4978 27.9223 13.1751 27.9223H2.67034C2.34761 27.9223 2.10942 27.6211 2.1838 27.3071L3.80526 20.4609Z" fill="#D3B25B"></path>
+        <defs>
+         <filter id="filter0_b_6823_38242" x="-0.194824" y="-0.0332031" width="42.252" height="48.7256" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38242"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38242" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38242" x1="5.8842" y1="19.7356" x2="35.9783" y2="28.9231" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Easily Redeemable</h5>
+       <div class="sc-htoDjs jOSCcF">
+        Should you ever want to redeem your XAUt tokens for physical gold, you can. We deliver physical gold bars to any address in Switzerland.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="37" height="37" viewbox="0 0 37 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M25.5053 29.4499C25.5631 29.2302 25.7617 29.0771 25.9888 29.0771H34.1653C34.3924 29.0771 34.591 29.2302 34.6488 29.4499L36.4504 36.2961C36.5339 36.6131 36.2947 36.9233 35.9669 36.9233H24.1872C23.8593 36.9233 23.6202 36.6131 23.7036 36.2961L25.5053 29.4499Z" fill="#D3B25B"></path>
+        <path d="M12.4281 29.4499C12.4859 29.2302 12.6845 29.0771 12.9116 29.0771H21.0881C21.3153 29.0771 21.5139 29.2302 21.5717 29.4499L23.3733 36.2961C23.4567 36.6131 23.2176 36.9233 22.8897 36.9233H11.11C10.7822 36.9233 10.5431 36.6131 10.6265 36.2961L12.4281 29.4499Z" fill="#D3B25B"></path>
+        <path d="M18.9667 21.6032C19.0245 21.3836 19.2231 21.2305 19.4502 21.2305H27.6267C27.8538 21.2305 28.0524 21.3836 28.1102 21.6032L29.9119 28.4494C29.9953 28.7664 29.7562 29.0766 29.4283 29.0766H17.6486C17.3208 29.0766 17.0816 28.7664 17.1651 28.4494L18.9667 21.6032Z" fill="#D3B25B"></path>
+        <g filter="url(#filter0_b_6823_38250)">
+         <path d="M0 3.30762C0 1.65076 1.34315 0.307617 3 0.307617H29.6923C31.3492 0.307617 32.6923 1.65076 32.6923 3.30762V29.9999C32.6923 31.6568 31.3492 32.9999 29.6923 32.9999H3C1.34315 32.9999 0 31.6568 0 29.9999V3.30762Z" fill="url(#paint0_linear_6823_38250)" fill-opacity="0.2"></path>
+        </g>
+        <g filter="url(#filter1_b_6823_38250)">
+         <path fill-rule="evenodd" clip-rule="evenodd" d="M16.3458 24.9611C18.4046 24.9611 20.2884 24.2122 21.7398 22.972L17.1913 18.4234C16.9353 18.5459 16.6485 18.6145 16.3458 18.6145C16.043 18.6145 15.7563 18.5459 15.5002 18.4234L10.9517 22.9719C12.4031 24.2122 14.287 24.9611 16.3458 24.9611ZM14.5753 15.8075C14.4529 16.0635 14.3843 16.3502 14.3843 16.6529C14.3843 16.9558 14.4529 17.2426 14.5755 17.4987L10.027 22.0472C8.78689 20.5958 8.03809 18.7121 8.03809 16.6534C8.03809 14.5946 8.78697 12.7108 10.0272 11.2594L14.5753 15.8075ZM15.4999 14.8827L10.9519 10.3347C12.4033 9.09454 14.2871 8.3457 16.3458 8.3457C18.4044 8.3457 20.2882 9.09451 21.7396 10.3346L17.1916 14.8826C16.9355 14.76 16.6487 14.6914 16.3458 14.6914C16.0429 14.6914 15.756 14.7601 15.4999 14.8827ZM18.1162 15.8073L22.6643 11.2593C23.9046 12.7107 24.6535 14.5946 24.6535 16.6534C24.6535 18.7121 23.9046 20.5959 22.6645 22.0473L18.1161 17.4989C18.2387 17.2428 18.3074 16.9559 18.3074 16.6529C18.3074 16.3502 18.2387 16.0634 18.1162 15.8073ZM16.3458 26.4611C21.7624 26.4611 26.1535 22.07 26.1535 16.6534C26.1535 11.2368 21.7624 6.8457 16.3458 6.8457C10.9291 6.8457 6.53809 11.2368 6.53809 16.6534C6.53809 22.07 10.9291 26.4611 16.3458 26.4611Z" fill="black" fill-opacity="0.2"></path>
+        </g>
+        <defs>
+         <filter id="filter0_b_6823_38250" x="-4" y="-3.69238" width="40.6924" height="40.6924" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38250"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38250" result="shape"></feblend>
+         </filter>
+         <filter id="filter1_b_6823_38250" x="2.53809" y="2.8457" width="27.6152" height="27.6152" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38250"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38250" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38250" x1="16.3462" y1="0.307617" x2="16.3462" y2="32.9999" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Easy Storage</h5>
+       <div class="sc-htoDjs jOSCcF">
+        Storing your physical gold can be expensive and can expose you to geopolitical risks. Storing your XAUt tokens is as easy as storing your other crypto-assets.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="39" height="38" viewbox="0 0 39 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_38260)">
+         <path fill-rule="evenodd" clip-rule="evenodd" d="M37.09 10.9526H37.1V26.9526H37.09C37.0707 27.2991 36.832 27.6423 36.3739 27.9068L20.7851 36.9062C19.8285 37.4585 18.2775 37.4585 17.3209 36.9062L1.73209 27.9068C1.27395 27.6423 1.03523 27.2991 1.01591 26.9526H1V10.9526H1.01597C1.03571 10.6065 1.27442 10.2637 1.73209 9.99954L17.3209 1.00012C18.2775 0.447875 19.8285 0.447875 20.7851 1.00012L36.3739 9.99954C36.8315 10.2637 37.0702 10.6065 37.09 10.9526Z" fill="url(#paint0_linear_6823_38260)" fill-opacity="0.2"></path>
+        </g>
+        <g filter="url(#filter1_b_6823_38260)">
+         <path d="M1.73209 11.999C0.775482 11.4467 0.775483 10.5513 1.73209 9.99909L17.3209 0.999676C18.2775 0.447427 19.8285 0.447428 20.7851 0.999676L36.3739 9.99909C37.3305 10.5513 37.3305 11.4467 36.3739 11.999L20.7851 20.9984C19.8285 21.5506 18.2775 21.5506 17.3209 20.9984L1.73209 11.999Z" fill="#D3B25B"></path>
+        </g>
+        <path d="M16.8218 9.73446L11.2601 11.8776L16.5615 12.1623L17.0547 15.2229L20.7671 12.0121M18.041 11.3082C16.4068 10.3648 16.4068 8.83523 18.041 7.89181C19.6752 6.94839 22.3248 6.94839 23.959 7.89181C25.5932 8.83523 25.5932 10.3648 23.959 11.3082C22.3248 12.2517 19.6752 12.2517 18.041 11.3082Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"></path>
+        <defs>
+         <filter id="filter0_b_6823_38260" x="-3" y="-3.41406" width="44.1001" height="44.7344" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38260"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38260" result="shape"></feblend>
+         </filter>
+         <filter id="filter1_b_6823_38260" x="-2.98535" y="-3.41406" width="44.0767" height="28.8262" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_38260"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_38260" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_38260" x1="19" y1="11.4998" x2="19.05" y2="37.3204" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Easy Verifiable</h5>
+       <div class="sc-htoDjs jOSCcF">
+        All physical gold that backs XAUt tokens can be tracked on our website . At any point in time, you can verify your gold allocation in our vaults.
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sc-dxgOiQ joPYXX section-wrapper-right-bg-image-div"></div>
+   </div>
+   <div class="sc-kpOJdX jllvOE sc-jbKcbu fHJzxh">
+    <div class="sc-VigVT sc-dNLxif eNtOya">
+     <div class="sc-jqCOkK fAzhaL">
+      <h2 class="sc-bxivhb iEdtCA">Tether Gold for Institutions</h2>
+      <div class="sc-htoDjs jOSCcF">
+       XAUt is an excellent asset for institutional investors. It provides you ownership of real physical gold with all the benefits of a crypto asset.
+      </div>
+      <button type="secondary" class="sc-bdVaJa iwUYFD">Get Some</button>
+     </div>
+     <div class="sc-kvZOFW sc-uJMKN risyQ">
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="47" height="48" viewbox="0 0 47 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_37730)">
+         <path d="M11.5585 40.9413C5.17491 37.256 5.17491 31.2811 11.5585 27.5958C17.942 23.9106 28.2919 23.9106 34.6754 27.5958C41.059 31.2811 41.059 37.256 34.6754 40.9413C28.2919 44.6265 17.942 44.6265 11.5585 40.9413Z" fill="url(#paint0_linear_6823_37730)" fill-opacity="0.2"></path>
+        </g>
+        <g filter="url(#filter1_b_6823_37730)">
+         <path d="M11.5585 30.4793C5.17491 26.7941 5.17491 20.8192 11.5585 17.1339C17.942 13.4487 28.2919 13.4487 34.6754 17.1339C41.059 20.8192 41.059 26.7941 34.6754 30.4793C28.2919 34.1646 17.942 34.1646 11.5585 30.4793Z" fill="#D3B25B"></path>
+        </g>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M24.1178 23.9492C27.2056 22.1666 29.2492 20.3841 29.1896 19.609C28.0559 19.5746 25.6692 20.4185 23.0885 21.7705L24.5652 22.623C24.1626 22.89 23.7002 23.157 23.2228 23.4325C22.7454 23.7081 22.283 23.9578 21.8057 24.1989L20.3439 23.355C18.0167 24.8534 16.5549 26.2313 16.5996 26.8771C17.9273 26.9202 21.0299 25.7318 24.1178 23.9492ZM22.6559 16.7844L24.6846 17.9556L20.5676 20.3324L21.9698 21.1418C25.0128 19.5573 27.7874 18.6617 28.5481 19.0837L30.0845 19.9707C30.8155 20.4099 29.2641 22.0116 26.5194 23.7684L29.9652 25.7576L27.2355 27.3335L23.8046 25.3529C20.7615 26.9374 17.987 27.833 17.2262 27.4111L15.6748 26.5154C14.9439 26.0763 16.4953 24.4745 19.24 22.7178L17.8378 21.9083L13.7207 24.2851L11.692 23.1139L22.6559 16.7844Z" fill="white"></path>
+        <g filter="url(#filter2_b_6823_37730)">
+         <path d="M11.5585 20.0184C5.17491 16.3332 5.17491 10.3582 11.5585 6.673C17.942 2.98776 28.2919 2.98776 34.6754 6.673C41.059 10.3582 41.059 16.3332 34.6754 20.0184C28.2919 23.7036 17.942 23.7036 11.5585 20.0184Z" fill="url(#paint1_linear_6823_37730)" fill-opacity="0.2"></path>
+        </g>
+        <defs>
+         <filter id="filter0_b_6823_37730" x="2.771" y="20.832" width="40.6919" height="26.873" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37730"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37730" result="shape"></feblend>
+         </filter>
+         <filter id="filter1_b_6823_37730" x="2.771" y="10.3701" width="40.6919" height="26.873" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37730"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37730" result="shape"></feblend>
+         </filter>
+         <filter id="filter2_b_6823_37730" x="2.771" y="-0.0908203" width="40.6919" height="26.873" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37730"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37730" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_37730" x1="11.5585" y1="27.5958" x2="23.1154" y2="47.6148" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+         <lineargradient id="paint1_linear_6823_37730" x1="11.5585" y1="6.673" x2="23.1154" y2="26.692" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Neutral Monetary Unit</h5>
+       <div class="sc-htoDjs jOSCcF">
+        Gold is a neutral monetary asset. Its supply is relatively scarce and the production of new gold is geographically distributed.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="45" height="29" viewbox="0 0 45 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M26.6515 16.4474C26.7636 16.0035 27.1631 15.6924 27.621 15.6924H40.3792C40.8372 15.6924 41.2366 16.0035 41.3488 16.4474L44.1471 27.5244C44.3067 28.1561 43.8292 28.7693 43.1776 28.7693H24.8226C24.171 28.7693 23.6935 28.1561 23.8531 27.5244L26.6515 16.4474Z" fill="#D3B25B"></path>
+        <g filter="url(#filter0_b_6823_37738)">
+         <path d="M3.11289 16.4474C3.22506 16.0035 3.62448 15.6924 4.08243 15.6924H16.8406C17.2986 15.6924 17.698 16.0035 17.8102 16.4474L20.6086 27.5244C20.7682 28.1561 20.2906 28.7693 19.639 28.7693H1.28405C0.632455 28.7693 0.154912 28.1561 0.31451 27.5244L3.11289 16.4474Z" fill="url(#paint0_linear_6823_37738)" fill-opacity="0.2"></path>
+        </g>
+        <g filter="url(#filter1_b_6823_37738)">
+         <path d="M14.8824 0.755064C14.9946 0.311069 15.394 0 15.852 0H28.6102C29.0681 0 29.4676 0.311068 29.5797 0.755064L32.3781 11.832C32.5377 12.4637 32.0602 13.0769 31.4086 13.0769H13.0536C12.402 13.0769 11.9244 12.4637 12.084 11.832L14.8824 0.755064Z" fill="url(#paint1_linear_6823_37738)" fill-opacity="0.2"></path>
+        </g>
+        <defs>
+         <filter id="filter0_b_6823_37738" x="-3.71631" y="11.6924" width="28.356" height="21.0771" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37738"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37738" result="shape"></feblend>
+         </filter>
+         <filter id="filter1_b_6823_37738" x="8.05322" y="-4" width="28.356" height="21.0771" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37738"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37738" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_37738" x1="10.4615" y1="15.6924" x2="10.4615" y2="28.7693" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+         <lineargradient id="paint1_linear_6823_37738" x1="22.2311" y1="0" x2="22.2311" y2="13.0769" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">Direct gold Exposure</h5>
+       <div class="sc-htoDjs jOSCcF">
+        XAUt combines direct exposure to the price of physical gold with the ease of accessibility and transactional utility of a crypto asset.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="40" height="19" viewbox="0 0 40 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M14.9033 0.634766L24.844 17.8526" stroke="black" stroke-opacity="0.2" stroke-width="2" stroke-linejoin="round" stroke-dasharray="1 4"></path>
+        <g filter="url(#filter0_b_6823_37751)">
+         <path d="M0.565094 15.396L3.56509 2.39598C3.77451 1.48852 4.58257 0.845703 5.51388 0.845703H11.1152L20.9229 17.8457H2.51388C1.22771 17.8457 0.275887 16.6492 0.565094 15.396Z" fill="url(#paint0_linear_6823_37751)" fill-opacity="0.2"></path>
+        </g>
+        <path d="M38.6653 15.396L35.6653 2.39598C35.4559 1.48852 34.6479 0.845703 33.7166 0.845703H18.9614L28.7691 17.8457H36.7166C38.0027 17.8457 38.9545 16.6492 38.6653 15.396Z" fill="#D3B25B"></path>
+        <defs>
+         <filter id="filter0_b_6823_37751" x="-3.48682" y="-3.1543" width="28.4097" height="25" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37751"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37751" result="shape"></feblend>
+         </filter>
+         <lineargradient id="paint0_linear_6823_37751" x1="10.4613" y1="0.845703" x2="10.4613" y2="17.8457" gradientunits="userSpaceOnUse">
+          <stop></stop>
+          <stop offset="1" stop-opacity="0"></stop>
+         </lineargradient>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">No custodian fees</h5>
+       <div class="sc-htoDjs jOSCcF">
+        There are no custody fees, just a one-time 25 basis point fee at the time you purchase or redeem an XAUt from TG Commodities Limited. Certain additional fees on redemption may apply.
+       </div>
+      </div>
+      <div class="sc-hmzhuo sc-frDJqD sc-bbmXgH iqzTEA">
+       <svg width="36" height="36" viewbox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g filter="url(#filter0_b_6823_37745)">
+         <path d="M30.2923 30.2923C32.9886 30.2923 35.1744 28.1065 35.1744 25.4103V20.5282C35.1744 17.8319 32.9886 15.6462 30.2923 15.6462C28.9442 15.6462 27.8513 16.739 27.8513 18.0872V27.8513C27.8513 29.1994 28.9442 30.2923 30.2923 30.2923ZM30.2923 30.2923C30.2923 32.9886 28.1065 35.1744 25.4103 35.1744H19.3077M35.1744 24.1897V18.0872C35.1744 8.65019 27.5242 1 18.0872 1C8.65019 1 1 8.65019 1 18.0872V24.1897M5.88205 30.2923C7.23019 30.2923 8.32308 29.1994 8.32308 27.8513V18.0872C8.32308 16.739 7.23019 15.6462 5.88205 15.6462C3.18577 15.6462 1 17.8319 1 20.5282V25.4103C1 28.1065 3.18577 30.2923 5.88205 30.2923Z" stroke="black" stroke-opacity="0.2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+        <path d="M18.0869 13.118V19.395L22.2715 23.5796M18.0869 29.1591C12.6943 29.1591 8.32275 24.7875 8.32275 19.395C8.32275 14.0024 12.6943 9.63086 18.0869 9.63086C23.4794 9.63086 27.851 14.0024 27.851 19.395C27.851 24.7875 23.4794 29.1591 18.0869 29.1591Z" stroke="#D3B25B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <defs>
+         <filter id="filter0_b_6823_37745" x="-3.75" y="-3.75" width="43.6743" height="43.6748" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+          <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+          <fegaussianblur in="BackgroundImage" stddeviation="2"></fegaussianblur>
+          <fecomposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_6823_37745"></fecomposite>
+          <feblend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_6823_37745" result="shape"></feblend>
+         </filter>
+        </defs>
+       </svg>
+       <h5 class="sc-bZQynM cwjCsK">24/7 Customer Support</h5>
+       <div class="sc-htoDjs jOSCcF">
+        We have a global customer support team ready at your service around the clock. No matter where you are and which time zone you are in, we will be available when you reach out to us.
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sc-dxgOiQ dNZjlw section-wrapper-right-bg-image-div"></div>
+   </div>
+   <div id="ecosystem" class="sc-kpOJdX eQGdJU sc-gGBfsJ eaQlFN">
+    <div class="sc-VigVT sc-jnlKLf ipBFpH">
+     <div class="sc-fYxtnH boXWJF">
+      <h2 class="sc-bxivhb iEdtCA">The Tether Gold Ecosystem</h2>
+      <div class="sc-htoDjs jOSCcF">
+       Exchanges and platforms where you can invest in and store Tether Gold (XAUt) tokens.
+      </div>
+     </div>
+     <div class="sc-tilXH ctFHOy">
+      <div class="sc-hqyNC fRFFua" style="padding-left: 57px; padding-right: 57px;">
+       <div style="position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; pointer-events: none;">
+        <div style="position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; pointer-events: none;">
+         <div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 100000px; height: 100000px;"></div>
+        </div>
+        <div style="position: absolute; inset: 0px; overflow: hidden; z-index: -1; visibility: hidden; pointer-events: none;">
+         <div style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 200%; height: 200%;"></div>
+        </div>
+       </div>
+       <div class="sc-kvZOFW brcyyj sc-hEsumM cXsCSN">
+        <div role="button" aria-label="Bitfinex" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="149" height="18" viewbox="0 0 149 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M127.294 17.696C127.403 17.8105 127.322 18.0002 127.163 18.0002H123.216C123.167 18.0002 123.119 17.9799 123.085 17.9439L117.838 12.3938L112.534 17.9446C112.5 17.9801 112.453 18.0002 112.404 18.0002H108.457C108.298 18.0002 108.217 17.8105 108.326 17.696L115.559 10.1168L108.571 2.75213C108.462 2.63745 108.544 2.44824 108.702 2.44824H112.65C112.7 2.44824 112.747 2.46875 112.782 2.50491L117.8 7.83989L122.838 2.50466C122.872 2.46865 122.92 2.44824 122.969 2.44824H126.918C127.076 2.44824 127.157 2.63745 127.049 2.75213L120.061 10.1168L127.294 17.696Z" fill="black"></path>
+          <path d="M89.8704 18C89.7324 18 89.6206 17.8881 89.6206 17.7501V2.69867C89.6206 2.56068 89.7324 2.44882 89.8704 2.44882H104.784C104.922 2.44882 105.034 2.56068 105.034 2.69867V4.8511C105.034 4.98909 104.922 5.10096 104.784 5.10096H93.2371V8.56682H100.16C100.298 8.56682 100.41 8.67869 100.41 8.81668V10.9691C100.41 11.1071 100.298 11.219 100.16 11.219H93.2371V15.0766H104.935C105.072 15.0766 105.184 15.1885 105.184 15.3265V17.7501C105.184 17.8881 105.072 18 104.935 18H89.8704Z" fill="black"></path>
+          <path d="M63.4627 18C63.3247 18 63.2129 17.8881 63.2129 17.7501V2.69867C63.2129 2.56068 63.3247 2.44882 63.4627 2.44882H66.5796C66.7176 2.44882 66.8294 2.56068 66.8294 2.69867V17.7501C66.8294 17.8881 66.7176 18 66.5796 18H63.4627Z" fill="black"></path>
+          <path d="M45.7319 18C45.5939 18 45.482 17.8881 45.482 17.7501V2.69867C45.482 2.56068 45.5939 2.44882 45.7319 2.44882H60.4645C60.6025 2.44882 60.7143 2.56068 60.7143 2.69867V4.91138C60.7143 5.04937 60.6025 5.16123 60.4645 5.16123H49.0986V9.25999H55.3887C55.5266 9.25999 55.6385 9.37186 55.6385 9.50985V11.8431C55.6385 11.9811 55.5266 12.093 55.3887 12.093H49.0986V17.7501C49.0986 17.8881 48.9867 18 48.8487 18H45.7319Z" fill="black"></path>
+          <path d="M36.0605 5.22151V17.7501C36.0605 17.8881 35.9486 18 35.8107 18H32.6938C32.5558 18 32.444 17.8881 32.444 17.7501V5.22151H25.801C25.663 5.22151 25.5511 5.10965 25.5511 4.97165V2.69867C25.5511 2.56068 25.663 2.44882 25.801 2.44882H42.7336C42.8716 2.44882 42.9835 2.56068 42.9835 2.69867V4.97165C42.9835 5.10965 42.8716 5.22151 42.7336 5.22151H36.0605Z" fill="black"></path>
+          <path d="M19.6859 18C19.5479 18 19.436 17.8881 19.436 17.7501V2.69867C19.436 2.56068 19.5479 2.44882 19.6859 2.44882H22.8027C22.9407 2.44882 23.0526 2.56068 23.0526 2.69867V17.7501C23.0526 17.8881 22.9407 18 22.8027 18H19.6859Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M0 2.69867C0 2.56068 0.111864 2.44882 0.249856 2.44882H13.568C15.3618 2.44882 16.8161 3.90305 16.8161 5.69694V6.73504C16.8161 8.52893 15.3618 9.98317 13.568 9.98317H13.6893C15.4832 9.98317 16.9375 11.4374 16.9375 13.2313V14.7521C16.9375 16.546 15.4832 18.0002 13.6893 18.0002H0.249856C0.111864 18.0002 0 17.8884 0 17.7504V2.69867ZM3.55404 4.98097H11.9718C12.7997 4.98097 13.4709 5.65215 13.4709 6.4801V7.18832C13.4709 8.01627 12.7997 8.68745 11.9718 8.68745H3.55404V4.98097ZM3.55404 11.2478H12.0621C12.8901 11.2478 13.5613 11.919 13.5613 12.747V13.698C13.5613 14.5259 12.8901 15.1971 12.0621 15.1971H3.55404V11.2478Z" fill="black"></path>
+          <path d="M69.328 17.7501V2.69867C69.328 2.56068 69.4398 2.44882 69.5778 2.44882H71.7046C71.7656 2.44882 71.8245 2.47114 71.8702 2.51158L83.8671 13.1302L83.8671 2.69867C83.8671 2.56068 83.979 2.44882 84.117 2.44882H86.8721C87.0101 2.44882 87.122 2.56068 87.122 2.69867V17.7501C87.122 17.8881 87.0101 18 86.8721 18H84.7456C84.6845 18 84.6254 17.9776 84.5797 17.937L72.5829 7.29074L72.5829 17.7501C72.5829 17.8881 72.471 18 72.333 18H69.5778C69.4398 18 69.328 17.8881 69.328 17.7501Z" fill="black"></path>
+          <path d="M130.299 11.7377C130.142 9.18925 131.212 6.35656 133.417 4.15203C138.21 -0.641521 148.193 0.030378 148.25 0.034239C148.223 0.0737985 140.925 10.6548 132.277 11.6444C131.608 11.7209 130.948 11.751 130.299 11.7377Z" fill="#03CA9B"></path>
+          <path d="M131.312 14.9959C131.559 15.3896 131.851 15.7583 132.188 16.0959C135.148 19.0549 140.495 18.505 144.132 14.8676C148.94 10.0604 148.25 0.034239 148.25 0.034239C148.223 0.093648 142.992 11.82 134.678 14.3778C133.549 14.725 132.418 14.9272 131.312 14.9959Z" fill="#03CA9B"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="FTX" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="118" height="36" viewbox="0 0 118 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M58.85 13.6258V18.5574H68.9818V23.4568H58.85V31.1455H52.3574V8.72316H70.3591V13.6258H58.85Z" fill="black"></path>
+          <path d="M79.7687 13.7539H72.7188V8.72316H93.2778V13.7539H86.2609V31.1455H79.7687V13.7539Z" fill="black"></path>
+          <path d="M110.524 31.1455L105.769 24.1934L101.08 31.1455H93.6699L102.031 19.8062L94.0309 8.72316H101.343L105.934 15.195L110.458 8.72316H117.475L109.474 19.5501L118 31.1455H110.524Z" fill="black"></path>
+          <path d="M12.0508 36H21.8462V26.4348H12.0508V36Z" fill="#84D6D7"></path>
+          <path d="M30.5369 13.2128H12.0508V22.7812H30.5369H33.8988V13.216H30.5369V13.2128Z" fill="#33BBC7"></path>
+          <path d="M12.0508 0.000220299V9.56543H42.3945V0.000220299H12.0508Z" fill="#11A9BC"></path>
+          <path d="M0 22.7812H9.79219V13.2128H0V22.7812Z" fill="#33BBC7"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="Ledger" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="118" height="39" viewbox="0 0 118 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <g clip-path="url(#clip0_7058_38122)">
+           <path d="M100.94 36.5441V38.9994H117.999V27.9261H115.514V36.5441H100.94ZM100.94 0V2.45531H115.514V11.0739H117.999V0H100.94ZM92.1431 18.9945V13.2892H96.0424C97.9435 13.2892 98.6259 13.915 98.6259 15.6245V16.6354C98.6259 18.3927 97.9676 18.9945 96.0424 18.9945H92.1431ZM98.3327 20.0055C100.112 19.5481 101.354 17.9108 101.354 15.9612C101.354 14.7336 100.867 13.626 99.9412 12.7351C98.7716 11.6275 97.2115 11.0739 95.189 11.0739H89.7059V27.9255H92.1431V21.2092H95.7988C97.6751 21.2092 98.4307 21.9795 98.4307 23.9057V27.9261H100.916V24.2909C100.916 21.6427 100.283 20.6318 98.3327 20.3428V20.0055ZM77.8138 20.559H85.3199V18.3443H77.8138V13.2886H86.0507V11.0739H75.3276V27.9255H86.4164V25.7108H77.8138V20.559ZM69.6494 21.4499V22.6053C69.6494 25.0367 68.7475 25.8314 66.4814 25.8314H65.9452C63.6785 25.8314 62.582 25.1089 62.582 21.7627V17.2367C62.582 13.8666 63.7275 13.168 65.9936 13.168H66.4808C68.6986 13.168 69.4052 13.9866 69.4294 16.2497H72.1101C71.8665 12.9274 69.6246 10.8333 66.2614 10.8333C64.6287 10.8333 63.2639 11.339 62.2405 12.3016C60.7052 13.7221 59.8523 16.1296 59.8523 19.4997C59.8523 22.7498 60.5837 25.1573 62.0942 26.6495C63.1176 27.6365 64.5314 28.1661 65.9205 28.1661C67.3827 28.1661 68.7233 27.5881 69.4052 26.3366H69.7461V27.9255H71.988V19.2352H65.3837V21.4499H69.6494ZM48.1554 13.2886H50.812C53.3223 13.2886 54.6872 13.9144 54.6872 17.285V21.7144C54.6872 25.0845 53.3223 25.7108 50.812 25.7108H48.1554V13.2886ZM51.0308 27.9261C55.6858 27.9261 57.4157 24.4354 57.4157 19.5003C57.4157 14.493 55.5637 11.0745 50.9819 11.0745H45.7176V27.9261H51.0308ZM33.9476 20.559H41.4538V18.3443H33.9476V13.2886H42.1846V11.0739H31.4615V27.9255H42.5503V25.7108H33.9476V20.559ZM19.5693 11.0739H17.0838V27.9255H28.2941V25.7108H19.5693V11.0739ZM0 27.9261V39H17.059V36.5441H2.48554V27.9261H0ZM0 0V11.0739H2.48554V2.45531H17.059V0L0 0Z" fill="black"></path>
+          </g>
+          <defs>
+           <clippath id="clip0_7058_38122">
+            <rect width="118" height="39" fill="white"></rect>
+           </clippath>
+          </defs>
+         </svg>
+        </div>
+        <div role="button" aria-label="BTSE" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="97" height="29" viewbox="0 0 97 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M73.2577 28.1024H96.3146L93.5405 21.6901H81.1338V17.3735H90.7664V11.433H81.1199V7.31081H93.5266L96.3146 0.940077L73.2577 0.898438V28.1024ZM24.5928 0.898438L27.0741 7.18589H32.4271V28.1024H39.7457V7.18589H45.1823L47.6637 0.898438H24.5928ZM13.2037 21.8427C15.3784 21.8427 16.633 20.9683 16.633 19.4138V19.3444C16.633 17.9009 15.5178 16.9571 13.1201 16.9571H7.65559V21.8427H13.2037ZM12.1722 11.8078C14.3468 11.8078 15.5736 11.0444 15.5736 9.50379V9.43439C15.5736 7.99091 14.4584 7.15814 12.3255 7.15814H7.66953V11.8078H12.1722ZM47.5661 23.7443L51.5948 18.9003C54.1737 20.9683 57.0314 22.0509 60.0564 22.0509C61.9941 22.0509 63.0396 21.3708 63.0396 20.2466V20.1772C63.0396 19.0946 62.1753 18.4839 58.6345 17.665C53.0724 16.3881 48.7928 14.8058 48.7928 9.39275V9.32335C48.7928 4.43774 52.6263 0.912318 58.8994 0.912318C63.3323 0.912318 66.8034 2.11984 69.6332 4.40998L66.0228 9.5593C63.639 7.86599 61.0322 6.96382 58.7181 6.96382C56.9617 6.96382 56.1114 7.71332 56.1114 8.65713V8.72653C56.1114 9.93405 57.0035 10.4615 60.6279 11.2804C66.6361 12.5989 70.3581 14.5421 70.3581 19.4693V19.5387C70.3581 24.9101 66.1482 28.1024 59.8055 28.1024C55.1774 28.1024 50.7723 26.6312 47.5661 23.7443ZM0.685547 1.25931H13.9426C17.1906 1.25931 19.4768 2.09208 20.9963 3.6466C22.0278 4.70145 22.6551 6.10329 22.6551 7.92151V7.99091C22.6551 11.0583 20.9544 12.8765 18.6683 13.8897C21.8048 14.9446 23.7982 16.7628 23.7982 20.3576V20.427C23.7982 24.9657 20.1738 27.7277 14.0123 27.7277H0.685547V1.25931Z" fill="#0E63C2"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="BigOne" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="105" height="38" viewbox="0 0 105 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M23.552 13.2585C23.5348 13.2409 23.5177 13.2232 23.4833 13.2055L7.96468 0.768215C7.79302 0.626882 7.55268 0.609213 7.36385 0.697547C7.15785 0.78588 7.03768 0.99788 7.03768 1.22755L6.74585 21.4912V21.7739V21.8092C6.74585 27.7452 11.4323 32.5682 17.2003 32.5682C22.9683 32.5682 27.6548 27.7452 27.6548 21.8092C27.6892 18.3289 26.0583 15.2195 23.552 13.2585ZM8.18785 2.42888L19.1745 11.2092C18.5393 11.0855 17.9042 11.0325 17.2175 11.0325C13.2177 11.0325 9.75002 13.3469 7.98185 16.7389L8.18785 2.42888ZM17.2175 31.3669C12.1018 31.3669 7.93035 27.0739 7.91318 21.8092V21.5265C8.06768 16.3679 12.1705 12.2339 17.2003 12.2339C22.316 12.2339 26.5047 16.5269 26.5047 21.8092C26.5218 27.0739 22.3503 31.3669 17.2175 31.3669Z" fill="black"></path>
+          <path d="M17.3377 17.7985C17.3205 17.7985 17.3205 17.7809 17.3377 17.7985L1.88768 4.95486C1.71601 4.79586 1.47568 4.7782 1.26968 4.8842C1.06368 4.97253 0.943512 5.18453 0.943512 5.4142L0.90918 26.3315C0.90918 26.3669 0.90918 26.3845 0.90918 26.4022C0.90918 26.4729 0.90918 26.5435 0.90918 26.6142C0.90918 32.5502 5.59568 37.3732 11.3637 37.3732C17.1317 37.3732 21.8182 32.5502 21.8182 26.6319C21.8353 22.9749 20.05 19.7419 17.3377 17.7985ZM2.07651 6.65086L13.4237 16.0672C12.7542 15.9259 12.0675 15.8552 11.3637 15.8552C7.32951 15.8552 3.79318 18.2402 2.07651 21.7029V6.65086ZM11.3637 36.1895C6.24801 36.1895 2.05935 31.8965 2.05935 26.6142C2.05935 21.3495 6.23085 17.0389 11.3637 17.0389C16.4793 17.0389 20.668 21.3319 20.668 26.6142C20.668 31.8965 16.4965 36.1895 11.3637 36.1895Z" fill="black"></path>
+          <path d="M1.50994 5.99761C1.3211 5.99761 1.14944 5.90928 1.02927 5.73261C0.857604 5.46761 0.926271 5.07895 1.18377 4.90228L7.2951 0.73295C7.5526 0.556283 7.93027 0.626949 8.10194 0.891949C8.2736 1.15695 8.20494 1.54561 7.94744 1.72228L1.81894 5.89161C1.7331 5.97995 1.61294 5.99761 1.50994 5.99761Z" fill="black"></path>
+          <path d="M38.8474 27.834C38.5041 27.8164 38.1608 27.7987 37.8346 27.7634C37.5084 27.728 37.1479 27.6927 36.8218 27.6574C36.4784 27.6044 36.1866 27.5514 35.8948 27.4807V12.6054C36.1694 12.5347 36.4784 12.464 36.8218 12.4287C37.1651 12.3757 37.4913 12.358 37.8346 12.3227C38.1779 12.2874 38.5213 12.2697 38.8474 12.252C39.1908 12.2344 39.4826 12.2344 39.7916 12.2344C40.6328 12.2344 41.4224 12.305 42.1434 12.4287C42.8816 12.57 43.5168 12.782 44.0489 13.1C44.5983 13.418 45.0103 13.842 45.3193 14.3544C45.6283 14.8667 45.7828 15.5204 45.7828 16.2624C45.7828 17.1104 45.594 17.7994 45.2163 18.347C44.8386 18.8947 44.3408 19.301 43.7056 19.5484C44.5639 19.8134 45.2506 20.2374 45.7485 20.8204C46.2463 21.3857 46.5038 22.1984 46.5038 23.2584C46.5038 24.7954 45.9545 25.9614 44.8901 26.721C43.8258 27.4807 42.1263 27.887 39.7916 27.887C39.5169 27.8517 39.1908 27.8517 38.8474 27.834ZM40.0319 18.8417C40.5298 18.8417 41.0104 18.8064 41.4568 18.7357C41.9203 18.665 42.2979 18.5237 42.6241 18.347C42.9503 18.1527 43.2078 17.9054 43.3966 17.5874C43.5854 17.2694 43.6713 16.8807 43.6713 16.4037C43.6713 15.962 43.5683 15.591 43.3794 15.2907C43.1906 14.9904 42.9159 14.743 42.5726 14.5487C42.2293 14.372 41.8344 14.2307 41.3709 14.1424C40.9074 14.054 40.4268 14.001 39.9118 14.001C39.3968 14.001 38.9848 14.001 38.6929 14.0187C38.4011 14.0364 38.1436 14.054 37.9033 14.0894V18.8417H40.0319ZM37.8861 25.9614C38.0406 25.979 38.2294 25.9967 38.4354 26.0144C38.6071 26.032 38.8303 26.0497 39.0706 26.0497C39.3109 26.0497 39.6028 26.0674 39.9289 26.0674C40.5298 26.0674 41.0963 26.0144 41.6456 25.9437C42.1949 25.873 42.6584 25.714 43.0704 25.502C43.4824 25.29 43.8086 25.0074 44.0489 24.6364C44.2893 24.2654 44.4094 23.806 44.4094 23.2407C44.4094 22.746 44.3236 22.3044 44.1348 21.951C43.9631 21.5977 43.6885 21.3327 43.3451 21.1207C43.0018 20.9087 42.6069 20.7674 42.1091 20.679C41.6456 20.5907 41.0963 20.5377 40.5126 20.5377H37.8861V25.9614Z" fill="black"></path>
+          <path d="M48.6496 13.7537C48.4092 13.5064 48.2891 13.1884 48.2891 12.782C48.2891 12.3757 48.4092 12.04 48.6496 11.8104C48.8899 11.5807 49.1989 11.457 49.5422 11.457C49.8856 11.457 50.1774 11.5807 50.4349 11.8104C50.6752 12.0577 50.7954 12.3757 50.7954 12.782C50.7954 13.1884 50.6752 13.524 50.4349 13.7537C50.1946 14.001 49.8856 14.107 49.5422 14.107C49.1989 14.107 48.8899 13.9834 48.6496 13.7537Z" fill="black"></path>
+          <path d="M50.5207 16.1914H48.5637V27.7101H50.5207V16.1914Z" fill="black"></path>
+          <path d="M59.0699 27.0213C58.5892 27.198 58.0399 27.2863 57.3876 27.2863C56.7352 27.2863 56.1172 27.1803 55.5336 26.9507C54.9499 26.721 54.4521 26.3853 54.0057 25.926C53.5594 25.449 53.2332 24.8837 52.9929 24.1947C52.7526 23.5057 52.6152 22.6753 52.6152 21.7037C52.6152 20.8557 52.7354 20.096 52.9586 19.3893C53.1989 18.6827 53.5422 18.082 53.9886 17.5697C54.4521 17.0573 55.0014 16.6687 55.6537 16.386C56.3061 16.1033 57.0614 15.9443 57.8854 15.9443C58.7952 15.9443 59.5849 16.015 60.2716 16.1563C60.9411 16.2977 61.5247 16.4213 61.9882 16.545V26.827C61.9882 28.6113 61.5419 29.8833 60.6836 30.6783C59.8252 31.4733 58.5034 31.862 56.7524 31.862C56.0657 31.862 55.4134 31.7913 54.7954 31.6853C54.1774 31.5617 53.6452 31.438 53.2161 31.2613L53.5594 29.477C53.9542 29.636 54.4177 29.7773 54.9842 29.9187C55.5507 30.0423 56.1344 30.0953 56.7524 30.0953C57.9026 30.0953 58.7437 29.848 59.2587 29.3533C59.7737 28.8763 60.0141 28.0813 60.0141 27.039V26.562C59.8767 26.6857 59.5506 26.827 59.0699 27.0213ZM59.2416 17.8523C58.9154 17.7993 58.4691 17.7817 57.9026 17.7817C56.8554 17.7817 56.0486 18.135 55.4649 18.8593C54.8984 19.5837 54.6066 20.5553 54.6066 21.739C54.6066 22.3927 54.6924 22.9757 54.8469 23.435C55.0014 23.912 55.2246 24.3007 55.4821 24.6187C55.7567 24.9367 56.0657 25.1663 56.4262 25.3077C56.7696 25.4667 57.1472 25.5373 57.5249 25.5373C58.0399 25.5373 58.5206 25.4667 58.9497 25.3077C59.3961 25.1487 59.7222 24.972 59.9626 24.76V18.029C59.8252 17.9407 59.5677 17.9053 59.2416 17.8523Z" fill="black"></path>
+          <path d="M64.7693 16.5442C65.1298 15.5372 65.6447 14.7069 66.2799 14.0356C66.9151 13.3642 67.6532 12.8519 68.5116 12.5162C69.3699 12.1629 70.2454 12.0039 71.2067 12.0039C72.1509 12.0039 73.0264 12.1629 73.8504 12.5162C74.6916 12.8696 75.4126 13.3642 76.0477 14.0356C76.6829 14.7069 77.1807 15.5372 77.5412 16.5442C77.9017 17.5512 78.0906 18.7172 78.0906 20.0246C78.0906 21.3319 77.9017 22.4979 77.5412 23.5049C77.1807 24.5119 76.6829 25.3422 76.0477 26.0136C75.4126 26.6849 74.6916 27.1972 73.8504 27.5329C73.0092 27.8862 72.1337 28.0452 71.2067 28.0452C70.2626 28.0452 69.3699 27.8862 68.5116 27.5329C67.6532 27.1796 66.9322 26.6849 66.2799 26.0136C65.6447 25.3422 65.1298 24.5119 64.7693 23.5049C64.4088 22.4979 64.2199 21.3319 64.2199 20.0246C64.2028 18.7172 64.3744 17.5512 64.7693 16.5442ZM66.6747 22.5509C66.8979 23.3106 67.2241 23.9466 67.6189 24.4942C68.0309 25.0242 68.5459 25.4482 69.1296 25.7309C69.7304 26.0136 70.3827 26.1726 71.1381 26.1726C71.8934 26.1726 72.5457 26.0136 73.1294 25.7309C73.7131 25.4482 74.2109 25.0419 74.6229 24.4942C75.0349 23.9642 75.3611 23.3106 75.5671 22.5509C75.7902 21.7912 75.9104 20.9432 75.9104 20.0246C75.9104 19.0882 75.7902 18.2402 75.5671 17.4982C75.3439 16.7386 75.0177 16.1026 74.6229 15.5549C74.2109 15.0249 73.7131 14.6009 73.1294 14.3182C72.5457 14.0356 71.8762 13.8766 71.1381 13.8766C70.3999 13.8766 69.7304 14.0356 69.1296 14.3182C68.5287 14.6009 68.0309 15.0072 67.6189 15.5549C67.2069 16.0849 66.8807 16.7386 66.6747 17.4982C66.4516 18.2579 66.3314 19.1059 66.3314 20.0246C66.3486 20.9609 66.4516 21.8089 66.6747 22.5509Z" fill="black"></path>
+          <path d="M89.3517 25.8723C88.9569 25.201 88.5106 24.4943 88.0642 23.77C87.6007 23.028 87.1201 22.3037 86.6394 21.544C86.1416 20.7843 85.6437 20.0777 85.1631 19.371C84.6824 18.6643 84.2017 18.0107 83.7382 17.3747C83.2747 16.7563 82.8456 16.2087 82.4679 15.7317V27.7273H80.4766V12.375H82.0902C82.7426 13.117 83.4464 13.9827 84.2017 14.9543C84.9399 15.926 85.6952 16.9507 86.4334 17.993C87.1716 19.0353 87.8582 20.06 88.5106 21.067C89.1457 22.074 89.7122 22.9573 90.1586 23.7523V12.375H92.1499V27.7273H90.4332C90.1071 27.162 89.7466 26.5437 89.3517 25.8723Z" fill="black"></path>
+          <path d="M94.9482 12.3574H103.806V14.1948H96.9739V18.7528H103.051V20.5548H96.9739V25.8724H104.338V27.7098H94.9482V12.3574Z" fill="black"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="Gateio" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="136" height="32" viewbox="0 0 136 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <mask id="mask0_1_4" maskunits="userSpaceOnUse" x="0" y="0" width="136" height="32" style="mask-type: alpha;">
+           <path d="M0 0H136V31.144H0V0Z" fill="white"></path>
+          </mask>
+          <g mask="url(#mask0_1_4)">
+           <path fill-rule="evenodd" clip-rule="evenodd" d="M112.59 9.25559H116.452V5.39233H112.59V9.25559ZM92.0609 15.6892C92.7989 13.7317 94.6887 12.338 96.9048 12.338C99.1205 12.338 101.01 13.7317 101.749 15.6892H92.0609ZM96.9048 8.74611C92.0635 8.74611 88.1375 12.6724 88.1375 17.5158C88.1375 22.3592 92.0635 26.2849 96.9048 26.2849C100.227 26.2849 103.117 24.4372 104.605 21.7138L101.365 20.1417C100.465 21.6682 98.805 22.693 96.9048 22.693C94.504 22.693 92.4859 21.0582 91.9003 18.841H101.909C101.908 18.8426 101.908 18.8449 101.908 18.8468H105.573C105.64 18.4126 105.674 17.9681 105.674 17.5158C105.674 12.6724 101.748 8.74611 96.9048 8.74611ZM106.692 25.8174H110.554V21.9541H106.692V25.8174ZM112.59 25.8174H116.452V10.954H112.59V25.8174ZM127.233 22.693C124.374 22.693 122.056 20.375 122.056 17.5158C122.056 14.656 124.374 12.338 127.233 12.338C130.091 12.338 132.409 14.656 132.409 17.5158C132.409 20.375 130.091 22.693 127.233 22.693ZM127.231 8.74611C122.39 8.74611 118.464 12.6724 118.464 17.5158C118.464 22.3592 122.39 26.2849 127.231 26.2849C132.074 26.2849 136 22.3592 136 17.5158C136 12.6724 132.074 8.74611 127.231 8.74611ZM46.4784 14.2832V18.2776H51.8788C51.5969 19.419 51.0394 20.4418 50.24 21.2589C49.0342 22.4914 47.3624 23.1705 45.532 23.1705C41.7339 23.1705 38.6435 20.0797 38.6435 16.2804C38.6435 12.4811 41.7339 9.38998 45.532 9.38998C47.5665 9.38998 49.4367 10.261 50.7332 11.7632L53.8252 9.2362C51.7752 6.83322 48.7335 5.39524 45.532 5.39524C39.5318 5.39524 34.65 10.2784 34.65 16.2804C34.65 22.2824 39.5318 27.1652 45.532 27.1652C48.4454 27.1652 51.1311 26.1152 53.0946 24.1083C54.7422 22.4239 55.8342 20.0742 56.0442 17.7203C56.1466 16.5721 56.1559 15.4317 56.0955 14.2832H46.4784ZM66.1513 22.6939C63.2925 22.6939 60.9747 20.3753 60.9747 17.5158C60.9747 14.6557 63.2925 12.3377 66.1513 12.3377C69.0104 12.3377 71.3282 14.6557 71.3282 17.5158C71.3282 20.3753 69.0104 22.6939 66.1513 22.6939ZM71.3289 10.4551C69.8777 9.39095 68.0883 8.76097 66.1513 8.76097C61.3099 8.76097 57.3852 12.6869 57.3852 17.5294C57.3852 22.3725 61.3099 26.2978 66.1513 26.2978C68.0883 26.2978 69.8777 25.6681 71.3289 24.6039V25.8174H74.9177V9.2417H71.3289V10.4551ZM82.6217 5.39266H79.0326V9.25559H76.8815V12.6436H79.0326V21.5099C79.0326 22.4255 79.1476 23.1957 79.3756 23.8001C79.6004 24.3981 79.9441 24.8663 80.3527 25.232C80.7667 25.6032 81.2525 25.8923 81.8284 26.0564C82.4137 26.2212 83.0594 26.2849 83.7418 26.2849C84.4482 26.2849 85.0781 26.2115 85.6155 26.0665C86.1146 25.9324 86.5929 25.7427 87.038 25.5017V22.7718C86.33 23.0781 85.6682 23.1889 84.913 23.2241C84.1159 23.2616 83.6443 23.0338 83.2519 22.6597C82.8407 22.2678 82.6217 21.757 82.6217 20.9003V12.6436H87.038V9.25559H82.6217V5.39266Z" fill="black"></path>
+           <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5686 24.1366C10.8397 24.1366 7.00606 20.3024 7.00606 15.572C7.00606 10.842 10.8397 7.00716 15.5686 7.00716V-0.000198364C6.9702 -0.000198364 0 6.97162 0 15.572C0 24.1721 6.9702 31.1439 15.5686 31.1439C24.1667 31.1439 31.1372 24.1721 31.1372 15.572H24.1312C24.1312 20.3024 20.2976 24.1366 15.5686 24.1366Z" fill="#2354E6"></path>
+           <path fill-rule="evenodd" clip-rule="evenodd" d="M15.5685 15.5719H24.1311V7.00735H15.5685V15.5719Z" fill="#17E6A1"></path>
+          </g>
+         </svg>
+        </div>
+        <div role="button" aria-label="OKX" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="111" height="34" viewbox="0 0 111 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M32.8182 0.110352H1.10843C0.912875 0.110352 0.725318 0.187983 0.587095 0.326355C0.448723 0.464579 0.371094 0.652134 0.371094 0.84784V32.5576C0.371094 32.7532 0.448723 32.9408 0.587095 33.079C0.725318 33.2174 0.912875 33.295 1.10843 33.295H32.8182C33.0139 33.295 33.2015 33.2174 33.3397 33.079C33.4781 32.9408 33.5557 32.7532 33.5557 32.5576V0.84784C33.5557 0.652134 33.4781 0.464579 33.3397 0.326355C33.2015 0.187983 33.0139 0.110352 32.8182 0.110352ZM22.4941 21.496C22.4941 21.6916 22.4165 21.8792 22.2781 22.0175C22.1399 22.1558 21.9523 22.2335 21.7568 22.2335H12.17C11.9745 22.2335 11.7869 22.1558 11.6485 22.0175C11.5103 21.8792 11.4327 21.6916 11.4327 21.496V11.9093C11.4327 11.7137 11.5103 11.5262 11.6485 11.3879C11.7869 11.2496 11.9745 11.1719 12.17 11.1719H21.7568C21.9523 11.1719 22.1399 11.2496 22.2781 11.3879C22.4165 11.5262 22.4941 11.7137 22.4941 11.9093V21.496Z" fill="black"></path>
+          <path d="M99.2059 11.1738H89.6193C89.2121 11.1738 88.8818 11.5039 88.8818 11.9112V21.4979C88.8818 21.9052 89.2121 22.2354 89.6193 22.2354H99.2059C99.6132 22.2354 99.9434 21.9052 99.9434 21.4979V11.9112C99.9434 11.5039 99.6132 11.1738 99.2059 11.1738Z" fill="black"></path>
+          <path d="M88.1395 0.111328H78.5529C78.1457 0.111328 77.8154 0.441405 77.8154 0.848817V10.4354C77.8154 10.8427 78.1457 11.1729 78.5529 11.1729H88.1395C88.5469 11.1729 88.877 10.8427 88.877 10.4354V0.848817C88.877 0.441405 88.5469 0.111328 88.1395 0.111328Z" fill="black"></path>
+          <path d="M110.263 0.111328H100.676C100.269 0.111328 99.9385 0.441405 99.9385 0.848817V10.4354C99.9385 10.8427 100.269 11.1729 100.676 11.1729H110.263C110.67 11.1729 111 10.8427 111 10.4354V0.848817C111 0.441405 110.67 0.111328 110.263 0.111328Z" fill="black"></path>
+          <path d="M88.1395 22.2344H78.5529C78.1457 22.2344 77.8154 22.5645 77.8154 22.9717V32.5585C77.8154 32.9657 78.1457 33.296 78.5529 33.296H88.1395C88.5469 33.296 88.877 32.9657 88.877 32.5585V22.9717C88.877 22.5645 88.5469 22.2344 88.1395 22.2344Z" fill="black"></path>
+          <path d="M110.263 22.2344H100.676C100.269 22.2344 99.9385 22.5645 99.9385 22.9717V32.5585C99.9385 32.9657 100.269 33.296 100.676 33.296H110.263C110.67 33.296 111 32.9657 111 32.5585V22.9717C111 22.5645 110.67 22.2344 110.263 22.2344Z" fill="black"></path>
+          <path d="M71.5341 0.111328H61.9475C61.5402 0.111328 61.21 0.441405 61.21 0.848817V10.4354C61.21 10.8427 61.5402 11.1729 61.9475 11.1729H71.5341C71.9413 11.1729 72.2716 10.8427 72.2716 10.4354V0.848817C72.2716 0.441405 71.9413 0.111328 71.5341 0.111328Z" fill="black"></path>
+          <path d="M71.5341 22.2344H61.9475C61.5402 22.2344 61.21 22.5645 61.21 22.9717V32.5585C61.21 32.9657 61.5402 33.296 61.9475 33.296H71.5341C71.9413 33.296 72.2716 32.9657 72.2716 32.5585V22.9717C72.2716 22.5645 71.9413 22.2344 71.5341 22.2344Z" fill="black"></path>
+          <path d="M61.2096 11.901C61.2096 11.7054 61.1318 11.5179 60.9936 11.3796C60.8552 11.2413 60.6677 11.1636 60.4721 11.1636H50.148V0.84784C50.148 0.652134 50.0702 0.464578 49.932 0.326355C49.7936 0.187983 49.6061 0.110352 49.4105 0.110352H39.8239C39.6282 0.110352 39.4406 0.187983 39.3024 0.326355C39.1641 0.464578 39.0864 0.652134 39.0864 0.84784V32.541C39.0864 32.7366 39.1641 32.9242 39.3024 33.0624C39.4406 33.2008 39.6282 33.2784 39.8239 33.2784H49.4105C49.6061 33.2784 49.7936 33.2008 49.932 33.0624C50.0702 32.9242 50.148 32.7366 50.148 32.541V22.2252H60.4721C60.6677 22.2252 60.8552 22.1475 60.9936 22.0092C61.1318 21.8709 61.2096 21.6833 61.2096 21.4878V11.901Z" fill="black"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="Bitcoin" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="136" height="30" viewbox="0 0 136 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M121.932 7.86106H122.571C123.858 7.86106 125.159 7.86106 126.431 7.86106C126.518 7.86306 126.603 7.88375 126.68 7.92162C126.758 7.95948 126.825 8.01358 126.878 8.08C128.695 11.9468 130.499 15.8196 132.291 19.6984C132.468 20.0824 132.583 20.4916 132.687 20.7751V7.85389H135.848V24.3644H134.957C133.744 24.3644 132.531 24.3644 131.319 24.3644C131.239 24.3627 131.161 24.3438 131.09 24.3091C131.019 24.2743 130.957 24.2245 130.908 24.1634C129.07 20.2439 127.243 16.3185 125.429 12.3871C125.274 12.0533 125.174 11.6908 125.026 11.2816V24.3464H121.932V7.83594V7.86106Z" fill="#334459"></path>
+          <path d="M34.6978 24.4037V7.87525C35.378 7.81782 36.0472 7.74604 36.7201 7.71373C38.4614 7.62041 40.2065 7.48402 41.9146 7.94703C42.4547 8.08824 42.9759 8.29063 43.4674 8.55002C45.046 9.40785 45.7337 10.7574 45.5821 12.4982C45.4305 14.239 44.3732 15.2009 42.7908 15.7644C42.6651 15.8074 42.5394 15.8433 42.4211 15.8828C42.4014 15.893 42.3829 15.9051 42.3656 15.9187C42.4274 15.9554 42.4931 15.9854 42.5616 16.0084C46.2809 16.8053 46.3881 20.958 44.5987 22.7813C43.6657 23.6937 42.4598 24.2966 41.1529 24.5042C38.9975 24.9133 36.8606 24.6729 34.6978 24.4037ZM37.9364 17.5195V22.0707C38.8674 22.0181 39.7937 21.9053 40.7093 21.7333C41.1564 21.6406 41.5546 21.3957 41.8319 21.0429C42.1092 20.6901 42.2474 20.2526 42.2214 19.8094C42.2443 19.3394 42.1004 18.8759 41.8137 18.4964C41.5271 18.1169 41.1151 17.8443 40.6464 17.7241C39.7776 17.4549 38.8792 17.5052 37.9364 17.5195ZM37.9586 14.9137C38.9864 14.9389 39.9847 14.9819 40.9163 14.5117C41.2884 14.331 41.6006 14.0523 41.8173 13.7075C42.034 13.3628 42.1465 12.9658 42.1419 12.5619C42.1372 12.158 42.0157 11.7635 41.7912 11.4235C41.5666 11.0835 41.2481 10.8116 40.872 10.639C39.9366 10.2011 38.9495 10.3375 37.9364 10.3805C37.9364 11.8162 37.9364 13.2053 37.9364 14.5943C37.9364 14.6876 37.9475 14.7845 37.9586 14.9137Z" fill="#33445A"></path>
+          <path d="M26.5827 1.83485C25.8876 3.51102 25.2036 5.19437 24.4938 6.85977C24.2757 7.37303 23.991 7.85758 23.7544 8.35649L22.6452 10.2767C21.9576 11.2961 21.2921 12.3262 20.5822 13.3276C18.5932 16.1555 16.3674 18.8194 13.9274 21.2921C11.3468 23.8656 8.69962 26.378 6.11163 28.93C5.93786 29.1022 5.77888 29.2889 5.61251 29.4683L5.5127 29.4037C5.77149 28.772 6.02659 28.1403 6.28909 27.5122C7.56583 24.4829 8.84258 21.4536 10.1193 18.4243C10.1652 18.2906 10.201 18.1538 10.2265 18.0151C10.3412 17.71 10.4706 17.4121 10.5704 17.1034C10.9799 15.9977 11.622 14.9868 12.4559 14.1352C13.1288 13.665 13.7906 13.1732 14.4819 12.7282C15.0883 12.3369 15.7316 12.0103 16.3601 11.6514C17.203 11.1704 18.0903 10.7469 18.8815 10.1906C19.8613 9.50145 20.756 8.70105 21.6877 7.9509C21.7267 7.93014 21.7638 7.90611 21.7986 7.87911C23.4005 6.37121 24.7792 4.65473 25.895 2.77882C26.0792 2.44319 26.2446 2.09812 26.3904 1.74512L26.5827 1.83485Z" fill="#FBD23B"></path>
+          <path d="M105.28 7.86036C106.452 7.86036 107.561 7.86036 108.666 7.86036C108.745 7.89182 108.816 7.94057 108.872 8.00283C108.929 8.06509 108.97 8.13917 108.992 8.21928C109.731 10.5702 110.471 12.9284 111.21 15.2829L113.125 21.4241C113.417 20.4945 113.683 19.6582 113.942 18.8183C115.024 15.3224 116.103 11.8265 117.177 8.33055C117.184 8.25526 117.207 8.1822 117.245 8.116C117.282 8.04981 117.334 7.99194 117.396 7.94604C117.458 7.90014 117.529 7.86724 117.604 7.8494C117.68 7.83156 117.759 7.82917 117.835 7.84241C118.808 7.88189 119.784 7.84241 120.793 7.84241C120.763 7.97521 120.745 8.0793 120.712 8.1798C118.836 13.444 116.961 18.719 115.088 24.0047C115.066 24.1197 114.998 24.2215 114.899 24.2886C114.8 24.3556 114.679 24.3826 114.56 24.3637C113.45 24.3385 112.315 24.3637 111.155 24.3637L105.28 7.86036Z" fill="#324359"></path>
+          <path d="M73.4846 18.5671C73.5031 16.8766 73.9209 15.3081 75.2333 14.1165C77.0819 12.4403 79.3002 12.1927 81.5924 12.9069C83.8107 13.5925 84.9716 15.2112 85.3117 17.4042C85.5896 18.8545 85.3755 20.3532 84.7017 21.6754C83.6295 23.689 81.8105 24.5827 79.5627 24.6114C77.2261 24.6437 75.3332 23.7715 74.1944 21.6826C73.6944 20.7176 73.4504 19.6468 73.4846 18.5671ZM82.0583 18.5671C81.9334 17.8582 81.7655 17.1571 81.5554 16.4674C81.4128 16.041 81.132 15.6708 80.7549 15.412C80.3777 15.1533 79.9245 15.0199 79.4629 15.0317C78.9921 15.0191 78.5297 15.1545 78.1446 15.4178C77.7595 15.681 77.4724 16.058 77.3259 16.4926C76.7657 17.8532 76.7657 19.3708 77.3259 20.7314C77.4689 21.1612 77.7524 21.5339 78.1334 21.7931C78.5144 22.0522 78.9721 22.1835 79.437 22.1671C79.9003 22.1845 80.3566 22.0534 80.7355 21.7939C81.1144 21.5344 81.3947 21.161 81.5333 20.7314C81.7582 20.0235 81.9336 19.3016 82.0583 18.5707V18.5671Z" fill="#324359"></path>
+          <path d="M104.293 24.3682H101.01V23.9303C101.01 21.9203 101.01 19.9103 101.01 17.904C101.006 17.5325 100.951 17.1631 100.847 16.8056C100.763 16.4305 100.554 16.0925 100.253 15.8435C99.9516 15.5946 99.5747 15.4484 99.1797 15.4274C98.7722 15.3671 98.3557 15.4453 98.0007 15.6487C97.6457 15.852 97.3739 16.1682 97.2313 16.5436C97.0036 17.1295 96.8786 17.7482 96.8616 18.3742C96.8135 20.2082 96.8616 22.0459 96.8616 23.8836V24.3646H93.6118V12.8288H96.3292L96.5806 14.7167C96.6153 14.715 96.6493 14.7065 96.6804 14.6916C97.4014 12.9365 99.0503 12.3335 100.936 12.6314C103.051 12.9652 104.326 14.4762 104.33 16.5795C104.33 19.0776 104.33 21.5745 104.33 24.0703V24.3825L104.293 24.3682Z" fill="#324359"></path>
+          <path d="M54.7068 15.4018H52.9839V12.918H54.6883V10.0107H57.9824V12.9037H61.284V15.3946H58.0157C58.0157 15.5561 57.9898 15.6781 57.9898 15.8002C57.9898 17.1784 57.9898 18.5531 57.9898 19.9314C57.9898 21.6434 58.7958 22.2644 60.5371 21.9234C60.7664 21.8767 60.9956 21.8265 61.2766 21.7691C61.3098 22.5156 61.3505 23.2442 61.3616 23.9729C61.3492 24.0349 61.3216 24.093 61.281 24.1424C61.2405 24.1918 61.1882 24.2309 61.1287 24.2564C59.7976 24.7202 58.3478 24.7542 56.9953 24.3533C56.3711 24.1741 55.8221 23.8064 55.4278 23.3036C55.0336 22.8008 54.8147 22.1891 54.8029 21.5573C54.6994 20.1575 54.7326 18.7505 54.7141 17.3435C54.6994 16.7154 54.7068 16.0873 54.7068 15.4018Z" fill="#334459"></path>
+          <path d="M72.028 15.7425C71.1431 15.3607 70.1778 15.1873 69.2108 15.2365C67.255 15.3764 65.9905 16.7619 66.1162 18.6642C66.1442 19.1919 66.2552 19.7124 66.4453 20.2075C66.7189 20.8486 67.2129 21.3777 67.8432 21.7049C68.4734 22.0322 69.201 22.1372 69.9021 22.0022C70.5676 21.9017 71.2183 21.7078 71.9134 21.5499C71.9762 22.2678 72.0501 23.0395 72.0908 23.8075C72.0696 23.8744 72.0329 23.9357 71.9836 23.9867C71.9342 24.0377 71.8735 24.0771 71.8061 24.1019C70.6123 24.5341 69.3332 24.6985 68.0646 24.5828C64.3971 24.3065 62.5189 21.7114 62.7408 18.3447C62.9219 15.3908 64.7076 13.3198 67.5064 12.7204C68.9131 12.4247 70.3751 12.4915 71.747 12.9142C71.8296 12.92 71.9097 12.9439 71.9813 12.9843C72.0529 13.0247 72.114 13.0805 72.16 13.1473C72.206 13.2141 72.2357 13.2903 72.2468 13.3699C72.2579 13.4496 72.25 13.5307 72.2239 13.607C72.1093 14.2961 72.0908 14.9852 72.028 15.7425Z" fill="#334459"></path>
+          <path d="M90.7759 24.3675H87.5483V12.8174H90.7759V24.3675Z" fill="#334459"></path>
+          <path d="M48.063 12.8135H51.2943V24.36H48.063V12.8135Z" fill="#324258"></path>
+          <path d="M12.4559 14.1349C11.622 14.9866 10.9799 15.9975 10.5704 17.1032C10.4705 17.4119 10.3411 17.7098 10.2265 18.0149L7.75684 15.9367C7.83768 15.7807 7.89377 15.6137 7.92321 15.4414C7.92321 13.6863 7.92321 11.9311 7.92321 10.176L11.5649 9.88525L12.2673 9.81348C12.2673 11.0877 12.2673 12.3618 12.2673 13.636C12.3033 13.8107 12.367 13.979 12.4559 14.1349Z" fill="#FBD64C"></path>
+          <path d="M22.6677 22.0236C22.6667 21.8865 22.6468 21.7501 22.6085 21.618C22.0133 20.2829 21.4107 18.9548 20.8117 17.6232C20.7887 17.5556 20.7726 17.4858 20.7637 17.4151C20.9448 17.3612 21.1334 17.2966 21.3035 17.2535L23.5217 16.7188C24.3203 18.3267 25.1189 19.9359 25.9175 21.5463C26.4203 22.5656 26.9157 23.5849 27.437 24.6581L25.3925 24.9848C25.0908 25.0444 24.7859 25.0875 24.4793 25.114C24.3033 25.0991 24.1303 25.0604 23.9654 24.9991C23.9747 24.8585 23.9648 24.7173 23.9358 24.5792C23.8413 24.3249 23.7302 24.0767 23.6031 23.8362C23.3036 23.2296 22.982 22.6266 22.6677 22.0236Z" fill="#324359"></path>
+          <path d="M7.9307 10.1762C7.9307 11.9314 7.9307 13.6865 7.9307 15.4416C7.90126 15.6139 7.84517 15.7809 7.76433 15.9369C6.33723 14.7405 4.91014 13.5441 3.48304 12.3477C2.48112 11.5042 1.48659 10.6464 0.488365 9.79935C0.357384 9.69554 0.241694 9.57477 0.144531 9.44043C2.73622 9.83525 5.31312 10.2265 7.9307 10.1762Z" fill="#FBD444"></path>
+          <path d="M20.3457 16.3749C21.2293 15.4955 22.1092 14.609 22.9965 13.7332C24.3324 12.4148 25.6696 11.0987 27.0079 9.78506C27.0461 9.74231 27.0807 9.69671 27.1115 9.64868C27.6623 9.12465 28.2206 8.59703 28.7641 8.08018C28.9057 7.9641 29.0551 7.85738 29.2114 7.76074C29.2817 8.35655 29.3371 8.95955 29.437 9.55536C29.4625 9.66401 29.4574 9.77733 29.4223 9.88343C29.3872 9.98952 29.3233 10.0845 29.2373 10.1583C27.2458 12.1396 25.2592 14.1256 23.2775 16.1165L20.3457 16.3749Z" fill="#1E3038"></path>
+          <path d="M15.3546 0.535156L18.9778 7.59159L17.059 8.45659C16.5562 7.37982 16.0607 6.321 15.5505 5.25859C15.2991 4.73456 15.0181 4.22489 14.752 3.70804C14.8703 2.9543 14.9812 2.20056 15.1217 1.44682C15.1771 1.13456 15.2843 0.833062 15.3546 0.535156Z" fill="#212D3A"></path>
+          <path d="M17.07 8.44971L18.9888 7.58472L21.0407 6.4541C21.4918 6.60126 21.3143 6.96737 21.3254 7.2545C21.3365 7.54164 21.3254 7.83596 21.6951 7.93646C20.7634 8.6902 19.865 9.487 18.889 10.1761C18.1015 10.7325 17.2142 11.156 16.3676 11.637C16.3262 11.4742 16.2978 11.3086 16.2825 11.1416C16.2825 10.5315 16.2825 9.91772 16.2825 9.30755C16.2472 9.15349 16.1847 9.00654 16.0977 8.87325L17.07 8.44971Z" fill="#FAD85D"></path>
+          <path d="M22.6672 22.0237C22.9815 22.6267 23.3032 23.2297 23.6137 23.8183C23.7408 24.0588 23.8519 24.307 23.9465 24.5613C23.9754 24.6994 23.9853 24.8406 23.976 24.9812L16.2749 20.3511C17.2251 20.2147 18.0532 20.0927 18.8851 19.9922C18.9873 19.9955 19.0864 20.028 19.1698 20.0855L22.6672 22.0237Z" fill="#212F3C"></path>
+          <path d="M15.3546 0.535194C15.2733 0.840278 15.1661 1.14177 15.1143 1.45044C14.9812 2.20059 14.8703 2.95793 14.7446 3.71167L14.3749 6.13081L12.2749 6.30309L13.384 0.635692C13.9719 0.54955 14.5634 0.452644 15.155 0.380859C15.234 0.414919 15.3027 0.468048 15.3546 0.535194Z" fill="#344459"></path>
+          <path d="M89.179 8.26324C89.4145 8.25363 89.6496 8.28967 89.8706 8.36925C90.0916 8.44884 90.2941 8.57037 90.4662 8.72674C90.6383 8.88312 90.7765 9.07121 90.8729 9.28004C90.9693 9.48886 91.0219 9.71423 91.0276 9.94299C90.9857 10.4023 90.7682 10.8298 90.4178 11.1412C90.0674 11.4526 89.6096 11.6253 89.1346 11.6253C88.6596 11.6253 88.2018 11.4526 87.8515 11.1412C87.5011 10.8298 87.2836 10.4023 87.2417 9.94299C87.2602 8.97749 88.0883 8.25606 89.179 8.26324Z" fill="#34455A"></path>
+          <path d="M49.6564 11.6228C49.4171 11.6324 49.1782 11.5954 48.9538 11.5141C48.7294 11.4327 48.524 11.3087 48.3497 11.1492C48.1754 10.9896 48.0357 10.7979 47.9388 10.5852C47.842 10.3725 47.7899 10.1432 47.7856 9.91068C47.795 9.68166 47.8515 9.45677 47.9517 9.24924C48.0519 9.0417 48.1939 8.85573 48.3692 8.70223C48.5445 8.54873 48.7497 8.43082 48.9727 8.35543C49.1956 8.28004 49.4319 8.24869 49.6675 8.26323C49.9069 8.24969 50.1467 8.28262 50.3728 8.36009C50.5989 8.43756 50.8069 8.55801 50.9845 8.71441C51.1621 8.87081 51.3058 9.06001 51.4073 9.27096C51.5087 9.48191 51.5658 9.71037 51.5752 9.94298C51.5447 10.4108 51.3269 10.8484 50.9683 11.1623C50.6097 11.4763 50.1388 11.6415 49.6564 11.6228Z" fill="#34455A"></path>
+          <path d="M29.2114 7.76358C29.0551 7.86022 28.9056 7.96693 28.7641 8.08301C28.2095 8.59986 27.6549 9.12748 27.1114 9.65151L23.1629 10.2258L22.6416 10.2904L23.7507 8.37015C25.4514 8.15479 27.1484 7.93945 28.8491 7.72768C28.9709 7.72607 29.0925 7.73811 29.2114 7.76358Z" fill="#39475A"></path>
+          <path d="M12.2934 6.27776L14.3934 6.10547L13.9165 9.37886L12.2786 9.79879L11.5762 9.87058L12.2934 6.27776Z" fill="#3E4859"></path>
+          <path d="M21.6876 7.93625C21.3179 7.83934 21.3179 7.55221 21.3179 7.2543C21.3179 6.9564 21.4843 6.60106 21.0332 6.4539C22.1423 5.54582 23.2885 4.65928 24.3606 3.71531C25.0705 3.09797 25.7027 2.39448 26.3719 1.73047C26.2261 2.08347 26.0607 2.42854 25.8765 2.76417C24.7606 4.64009 23.382 6.35657 21.78 7.86448C21.7512 7.89067 21.7203 7.91467 21.6876 7.93625Z" fill="#FBDA65"></path>
+          <path d="M20.3457 16.3743L23.2738 16.1123L23.5326 16.7189L21.3144 17.2537C21.1332 17.2967 20.9446 17.3614 20.7746 17.4152L20.3457 16.3743Z" fill="#3E4758"></path>
+          <path d="M26.5827 1.83456L26.3867 1.73047L26.6307 1.4541L26.6862 1.50076L26.5827 1.83456Z" fill="#FBDA65"></path>
+          <path d="M26.6309 1.45399L26.7159 1.36426L26.6863 1.50065L26.6309 1.45399Z" fill="#FBDA65"></path>
+          <path d="M37.9365 17.519C38.8793 17.519 39.7851 17.4544 40.6465 17.738C41.1152 17.8582 41.5272 18.1308 41.8138 18.5103C42.1005 18.8898 42.2443 19.3532 42.2215 19.8233C42.2475 20.2664 42.1093 20.7039 41.832 21.0568C41.5546 21.4096 41.1565 21.6545 40.7094 21.7471C39.7938 21.9192 38.8675 22.0319 37.9365 22.0845V17.519Z" fill="#FCFCFC"></path>
+          <path d="M37.9589 14.9133C37.9589 14.7877 37.9404 14.6908 37.9404 14.5903C37.9404 13.2012 37.9404 11.8086 37.9404 10.3765C38.9571 10.3334 39.9406 10.1971 40.876 10.6349C41.2521 10.8076 41.5706 11.0794 41.7952 11.4195C42.0197 11.7595 42.1412 12.154 42.1459 12.5579C42.1505 12.9617 42.038 13.3587 41.8213 13.7035C41.6046 14.0483 41.2924 14.327 40.9203 14.5077C39.9849 14.9815 38.983 14.9384 37.9589 14.9133Z" fill="#FCFCFC"></path>
+          <path d="M12.2787 9.81701L13.9165 9.39707C14.0618 9.38913 14.2064 9.37114 14.3491 9.34324C14.9295 9.19249 15.5026 9.03097 16.0793 8.87305C16.1664 9.00634 16.2289 9.15328 16.2642 9.30734C16.2864 9.91751 16.2642 10.5313 16.2642 11.1414C16.2794 11.3084 16.3079 11.474 16.3492 11.6367C15.7207 11.9957 15.0811 12.3546 14.4711 12.7135C13.7797 13.1586 13.1179 13.6503 12.445 14.1205C12.3629 13.9647 12.3055 13.7977 12.275 13.6252C12.2713 12.3797 12.2787 11.0912 12.2787 9.81701Z" fill="#FBD754"></path>
+          <path d="M82.0582 18.5708C81.9324 19.2932 81.7571 20.0067 81.5332 20.7064C81.3947 21.136 81.1144 21.5093 80.7355 21.7688C80.3566 22.0283 79.9003 22.1595 79.437 22.1421C78.9721 22.1584 78.5144 22.0271 78.1334 21.768C77.7524 21.5089 77.4689 21.1361 77.3259 20.7064C76.7657 19.3457 76.7657 17.8281 77.3259 16.4675C77.4724 16.0329 77.7595 15.6559 78.1446 15.3927C78.5297 15.1295 78.9921 14.9941 79.4628 15.0067C79.9245 14.9948 80.3777 15.1282 80.7548 15.387C81.132 15.6457 81.4128 16.0159 81.5554 16.4424C81.7666 17.1415 81.9345 17.8522 82.0582 18.5708Z" fill="#FDFDFD"></path>
+          <path d="M16.094 8.8726C15.5172 9.03053 14.9405 9.19205 14.3637 9.34279C14.221 9.3707 14.0765 9.38869 13.9312 9.39663L14.4081 6.12325L14.7778 3.7041C15.044 4.22095 15.325 4.73062 15.5764 5.25465C16.0866 6.33142 16.582 7.38666 17.0848 8.45266L16.094 8.8726Z" fill="#FCFCFB"></path>
+         </svg>
+        </div>
+        <div role="button" aria-label="Huobi" class="sc-hmzhuo sc-frDJqD sc-ktHwxA bScQGj">
+         <svg width="135" height="39" viewbox="0 0 135 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M18.0323 12.7629C17.5379 18.2442 11.9608 23.2034 10.0754 26.3356C8.26752 29.3392 7.63775 32.1781 8.96023 37.661C9.03044 37.952 8.73364 38.2064 8.45676 38.0816C6.09408 37.017 0.0810569 33.8236 0.0810547 26.2109C0.0810515 15.4724 12.1816 15.0888 11.6129 0.555023C11.6015 0.26287 11.9271 0.0643113 12.1706 0.232624C16.1294 2.96869 18.5034 7.53834 18.0323 12.7629Z" fill="#0CA28B"></path>
+          <path d="M10.1392 38.5161C9.99722 38.4734 9.89825 38.3465 9.89262 38.201C9.75489 34.6386 11.7074 32.3106 13.8967 30.5836C18.7562 26.7499 21.7526 21.5726 20.5667 15.5825C20.4959 15.2252 20.9225 14.9893 21.1608 15.2682C22.3039 16.6059 23.4683 18.4189 24.1126 19.7406C27.221 26.2951 25.5623 33.8066 18.1246 37.5972C15.7959 38.7321 13.0309 39.3834 10.1392 38.5161Z" fill="#3BBEAA"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M49.834 9.91406V21.2323H38.7655V11.3703C38.7655 10.5659 38.1192 9.91406 37.3217 9.91406H33.5859V36.8861C33.5859 37.6901 34.2325 38.3425 35.0298 38.3425H38.7655V25.7977H49.834V36.8861C49.834 37.6901 50.4803 38.3425 51.2779 38.3425H55.0136V11.3703C55.0136 10.5659 54.3668 9.91406 53.5693 9.91406H49.834Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M72.0037 16.6068V30.0937C72.0037 31.3192 71.3716 32.481 70.2999 33.0938C67.3069 34.8051 64.2104 32.6677 64.2104 29.849V18.0644C64.2104 17.2591 63.5509 16.6064 62.7371 16.6064H58.9101H58.9097V30.3302C58.9097 34.7453 62.5604 38.358 67.0219 38.358H69.1914C73.6533 38.358 77.3037 34.7453 77.3037 30.3298V18.0644C77.3037 17.2591 76.6443 16.6064 75.8309 16.6064H72.0037V16.6068Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M130.809 38.3422H134.556V19.2141C134.556 18.4075 133.907 17.7539 133.108 17.7539H129.361V36.8815C129.361 37.6881 130.009 38.3422 130.809 38.3422Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M131.991 15.587C133.587 15.587 134.88 14.3172 134.88 12.7505C134.88 11.1839 133.587 9.91406 131.991 9.91406C130.395 9.91406 129.101 11.1839 129.101 12.7505C129.101 14.3172 130.395 15.587 131.991 15.587Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M95.9104 29.3232C95.9104 31.9145 93.7822 33.6396 91.181 33.6396C88.5797 33.6396 86.4515 31.9145 86.4515 29.3232V25.6254C86.4515 23.0341 88.5797 21.309 91.181 21.309C93.7822 21.309 95.9104 23.0341 95.9104 25.6254V29.3232ZM91.181 16.6064C85.6814 16.6064 81.1812 20.5257 81.1812 26.0041V28.9673C81.1812 34.4462 85.6814 38.3421 91.181 38.3421C96.6809 38.3421 101.18 34.4462 101.18 28.9673V26.0041C101.18 20.5257 96.6809 16.6064 91.181 16.6064Z" fill="black"></path>
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M119.901 29.3296C119.901 31.9191 117.759 33.6431 115.141 33.6431C112.523 33.6431 110.381 31.9191 110.381 29.3296V25.6343C110.381 23.0448 112.523 21.3208 115.141 21.3208C117.759 21.3208 119.901 23.0448 119.901 25.6343V29.3296ZM115.141 16.6215C113.411 16.6215 111.779 17.0039 110.353 17.6972V11.3687C110.353 10.5654 109.695 9.91406 108.882 9.91406H105.076V28.9739C105.076 34.4491 109.605 38.3425 115.141 38.3425C120.676 38.3425 125.205 34.4491 125.205 28.9739V26.0128C125.205 20.5381 120.676 16.6215 115.141 16.6215Z" fill="black"></path>
+         </svg>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sc-dxgOiQ fnxWCj section-wrapper-right-bg-image-div"></div>
+   </div>
+   <div class="sc-hSdWYo hAGQon">
+    <div class="sc-VigVT sc-eHgmQL enJODQ">
+     <div class="sc-cvbbAY evRoXC">
+      <div class="sc-jWBwVP fbnwbx">
+       <h3 class="sc-ifAKCX WJxtN">A digital token, backed by physical gold.</h3>
+      </div>
+      <div class="sc-brqgnP kjhxJB">
+       <div>
+        <ul>
+         <li><a target="_blank" href="https://www.tether.to" rel="noopener noreferrer">Tether.to</a></li>
+         <li><a target="_blank" href="https://tether.to/en/about-us" rel="noopener noreferrer">About Us</a></li>
+         <li><a target="_blank" href="https://tether.to/en/transparency/" rel="noopener noreferrer">Transparency</a></li>
+        </ul>
+        <ul>
+         <li><a target="_blank" href="https://tether.to/en/facts" rel="noopener noreferrer">Tether Truths</a></li>
+         <li><a target="_blank" href="/legal" rel="noopener noreferrer">Legal Terms</a></li>
+        </ul>
+       </div>
+       <div>
+        <ul>
+         <li><a target="_blank" href="/Tether Gold Whitepaper.pdf" rel="noopener noreferrer">Whitepaper</a></li>
+         <li><button type="transparent" class="sc-bdVaJa kBtHzl">Cookie Settings</button></li>
+        </ul>
+        <ul>
+         <li><a target="_blank" href="https://cs.tether.to/" rel="noopener noreferrer">Contact Us</a></li>
+         <li><a target="_blank" href="https://tether.to/en/media" rel="noopener noreferrer">Media Assets</a></li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="sc-cMljjf ckULpL">
+      <a class="tether-gold-logo-wrapper" href="/"><img title="Tether Gold" alt="Tether Gold" src="/static/media/tether-gold-logo.19adb481.svg"></a>
+      <div class="container-notice-container">
+       <div type="small" class="sc-htoDjs gRnweq">
+        © 2022 Tether Operations Limited. All rights reserved.
+       </div>
+       <div>
+        <button type="transparent" class="sc-bdVaJa kBtHzl">
+         <svg width="19" height="15" viewbox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M19 1.77404C18.2949 2.07692 17.5416 2.27524 16.7549 2.37259C17.5639 1.90384 18.1799 1.16827 18.4693 0.28125C17.716 0.717547 16.8848 1.02404 15.9979 1.19711C15.2854 0.457932 14.2648 0 13.1553 0C10.9992 0 9.2625 1.70192 9.2625 3.78605C9.2625 4.08533 9.28848 4.37379 9.35156 4.64783C6.11191 4.49639 3.24707 2.98557 1.32109 0.688701C0.983398 1.25481 0.786719 1.90384 0.786719 2.60336C0.786719 3.91586 1.48066 5.07692 2.51602 5.74759C1.88887 5.73677 1.27656 5.56009 0.757031 5.28245C0.757031 5.29326 0.757031 5.30769 0.757031 5.32572C0.757031 7.16466 2.10781 8.6935 3.87793 9.04326C3.5625 9.12619 3.21367 9.16946 2.85742 9.16946C2.60879 9.16946 2.35645 9.15504 2.11895 9.10456C2.62363 10.6046 4.05605 11.7043 5.75937 11.7404C4.43457 12.7464 2.7498 13.3558 0.931445 13.3558C0.612305 13.3558 0.304297 13.3413 0 13.3053C1.72559 14.387 3.77031 15.0036 5.97461 15.0036C13.1441 15.0036 17.0629 9.23437 17.0629 4.23317C17.0629 4.0673 17.0555 3.90504 17.048 3.74278C17.8199 3.20913 18.4693 2.54206 19 1.77404Z" fill="white"></path>
+         </svg></button>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div id="modal-root"></div> 
+  <div></div>
+ </body>
+</html>
