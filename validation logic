@@ -1,0 +1,19 @@
+
+    # Generate an invalid public key
+    while True:
+        invalid_pub = random_bytes(32)
+        if not SECP256K1.is_x_coord(int.from_bytes(invalid_pub, 'big')):
+            break
+
+    # Implement a test case that detects validation logic which maps invalid public keys to the
+    # point at infinity in the tweaking logic.
+    tap = taproot_construct(invalid_pub, [("true", CScript([OP_1]))], treat_internal_as_infinity=True)
+    add_spender(spenders, "output/invalid_x", tap=tap, key_tweaked=tap.tweak, failure={"leaf": "true", "inputs": []}, **ERR_WITNESS_PROGRAM_MISMATCH)
+
+    # Do the same thing without invalid point, to make sure there is no mistake in the test logic.
+    tap = taproot_construct(pubs[0], [("true", CScript([OP_1]))])
+    add_spender(spenders, "output/invalid_x_mock", tap=tap, key=secs[0], leaf="true", inputs=[])
+
+    # == Tests for signature hashing ==
+
+    # Run all tests once with no annex, and once with a valid random annex.
