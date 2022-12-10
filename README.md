@@ -52,8 +52,7 @@ group {script> johhny orkut > ] ] move origin %
 <br/>
 
 ## Stack
-![Blockchain](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-org?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 
 
