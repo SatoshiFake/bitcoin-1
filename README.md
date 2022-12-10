@@ -51,6 +51,8 @@ group {script> johhny orkut > ] ] move origin %
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SatoshiBTCXBT=anuraghazra&count_private=true)
+
 ## Stack
 ![Bitcoin](https://img.shields.io/badge/bitcoin-johhny?style=for-the-badge&logo=bitcoin&logoColor=white) 
 
