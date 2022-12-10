@@ -34,7 +34,7 @@ group {script> johhny orkut > ] ] move origin %
 
  GitHub stats 
 
-<a href="https://github.com/github-readme-stats">
+<a href="https://github.com/bitcoin-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
