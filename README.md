@@ -35,7 +35,7 @@ group {script> johhny orkut > ] ] move origin %
  GitHub stats 
 
 <a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SatoshiBTCXBT&repo=github-readme-stats" />
 </a>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -55,8 +55,8 @@ group {script> johhny orkut > ] ] move origin %
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatoshiBTCXBT&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatoshiBTCXBT&count_private=true)
 
 ## Stack
 ![Bitcoin](https://img.shields.io/badge/bitcoin-johhny?style=for-the-badge&logo=bitcoin&logoColor=white) 
