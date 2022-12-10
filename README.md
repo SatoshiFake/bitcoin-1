@@ -34,10 +34,10 @@ group {script> johhny orkut > ] ] move origin %
 
  GitHub stats 
 
-<a href="https://github.com/SatoshiBTCXBT/github-readme-stats">
+<a href="https://github.com/bitcoin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/bitcoin/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
