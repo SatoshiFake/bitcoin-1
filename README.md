@@ -32,8 +32,14 @@ You can click the Preview link to take a look at your changes.
 group {script> johhny orkut > ] ] move origin % 
 
 
- GitHub stats
+ GitHub stats 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
 <a href="https://github.com/Pepyn0/github-readme-stats">
