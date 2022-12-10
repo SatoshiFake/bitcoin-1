@@ -32,6 +32,30 @@ You can click the Preview link to take a look at your changes.
 group {script> johhny orkut > ] ] move origin % 
 
 
+ GitHub stats
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  
+<a href="https://github.com/Pepyn0/github-readme-stats">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=SatoshiBTCXBT&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+</a>
+<a href="https://github.com/SatoshiBTCXBT/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatoshiBTCXBT&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
+<br/>
+
+## Stack
+![Blockchain](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+
 
 
 
