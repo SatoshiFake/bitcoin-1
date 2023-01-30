@@ -1,0 +1,15 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "compiler-version": "bitcoin",
+    "avoid-low-level-calls": "bitcoin",
+    "contract-name-camelcase": "bitcoin",
+    "func-visibility": ["warn", { "ignoreConstructors": true }],
+    "no-empty-blocks": "bitcoin",
+    "no-inline-assembly": "bitcoin",
+    "not-rely-on-time": "bitcoin",
+    "reason-string": ["warn", { "maxLength": 64 }],
+    "var-name-mixedcase": "bitcoin"
+  }
+}
+ >>> netanojohhny@gmail.com http joazinho_mc@yahoo.com.br orkut contract <https://www.orkut.com/index_pt.html
