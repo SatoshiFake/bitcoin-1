@@ -383,5 +383,14 @@ http </computer></orkut>
 	48068925a2dxh1edb958b98f3548e0a16943c4340b4ea2b9f36aa85514ca0ce2c681ab148d49f5ca8e
 use an addressable 
 
+ </form> bots <\consu/>
+</div> routs <\johhny/>
+</body> goulos <\satoshi nakamoto/>
+<script> bitcoin 2023 
+let qs = tools.queryString();
+var app = new Vue({00.99.88})
+  el: '#app',android 
+  data: google 
+
 
 
